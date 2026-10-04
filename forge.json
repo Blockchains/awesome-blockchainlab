@@ -1,0 +1,5391 @@
+{
+ "generated_at": "2026-10-04T16:37:31Z",
+ "owner": "Blockchains",
+ "count": 225,
+ "index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/catalog.json",
+ "starters": "https://github.com/Blockchains/blockchainlab-starters",
+ "compose_engine": "https://github.com/Blockchains/blockchainlab-compose",
+ "examples": [
+  "https://github.com/Blockchains/forge-dao-governance-token",
+  "https://github.com/Blockchains/forge-usd-priced-membership-nft",
+  "https://github.com/Blockchains/forge-example-usd-savings-vault",
+  "https://github.com/Blockchains/forge-example-gasless-membership"
+ ],
+ "projects": [
+  {
+   "name": "account-abstraction",
+   "slug": "account-abstraction",
+   "category": "account-abstraction",
+   "upstream": "https://github.com/eth-infinitism/account-abstraction",
+   "fork": "https://github.com/Blockchains/account-abstraction",
+   "fork_branch": "develop",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 1940,
+   "description": "",
+   "upstream_pushed_at": "2026-01-25T19:41:37Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/erc4337-smart-account"
+   ],
+   "docs": [
+    "https://github.com/eth-infinitism/account-abstraction#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/account-abstraction?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/account-abstraction/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/account-abstraction.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/account-abstraction/index.json",
+    "commit": "1c6b669d0eea734e09a87e095ba15e076151718a",
+    "component_count": 32,
+    "tags": [
+     "EIP-712",
+     "ERC-165",
+     "ERC-20",
+     "ERC-4337",
+     "EVM",
+     "Hardhat",
+     "Proxy/Upgradeable",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "permissionless.js",
+   "slug": "permissionless-js",
+   "category": "account-abstraction",
+   "upstream": "https://github.com/pimlicolabs/permissionless.js",
+   "fork": "https://github.com/Blockchains/permissionless.js",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 255,
+   "description": "TypeScript utilities built on viem for ERC-4337: Account Abstraction",
+   "upstream_pushed_at": "2026-09-10T14:44:16Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/pimlicolabs/permissionless.js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/permissionless.js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/permissionless.js/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/permissionless-js.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/permissionless-js/index.json",
+    "commit": "5fa8bbc1e5c13253178462838a768b964432620a",
+    "component_count": 3,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "eliza",
+   "slug": "eliza",
+   "category": "ai-agents",
+   "upstream": "https://github.com/elizaOS/eliza",
+   "fork": "https://github.com/Blockchains/eliza",
+   "fork_branch": "develop",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 19539,
+   "description": "Open source agentic operating system",
+   "upstream_pushed_at": "2026-10-04T12:55:36Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/elizaOS/eliza#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/eliza?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/eliza/tree/develop"
+  },
+  {
+   "name": "ClawRouter",
+   "slug": "clawrouter",
+   "category": "ai-agents",
+   "upstream": "https://github.com/BlockRunAI/ClawRouter",
+   "fork": "https://github.com/Blockchains/ClawRouter",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 6614,
+   "description": "The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402.",
+   "upstream_pushed_at": "2026-10-03T09:43:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/BlockRunAI/ClawRouter#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ClawRouter?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ClawRouter/tree/main"
+  },
+  {
+   "name": "intentkit",
+   "slug": "intentkit",
+   "category": "ai-agents",
+   "upstream": "https://github.com/crestalnetwork/intentkit",
+   "fork": "https://github.com/Blockchains/intentkit",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 6515,
+   "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+   "upstream_pushed_at": "2026-09-16T12:17:32Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/crestalnetwork/intentkit#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/intentkit?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/intentkit/tree/main"
+  },
+  {
+   "name": "rotki",
+   "slug": "rotki",
+   "category": "analytics",
+   "upstream": "https://github.com/rotki/rotki",
+   "fork": "https://github.com/Blockchains/rotki",
+   "fork_branch": "develop",
+   "license": "AGPL-3.0",
+   "license_note": "AGPL-3.0",
+   "stars": 4039,
+   "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
+   "upstream_pushed_at": "2026-10-02T16:12:36Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/rotki/rotki#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rotki?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rotki/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/rotki.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/rotki/index.json",
+    "commit": "a0fc8a5a0e41c02fa6559e0386155201b1f08cb9",
+    "component_count": 10,
+    "tags": [
+     "EVM",
+     "Rust-crates",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "mempool",
+   "slug": "mempool",
+   "category": "analytics",
+   "upstream": "https://github.com/mempool/mempool",
+   "fork": "https://github.com/Blockchains/mempool",
+   "fork_branch": "master",
+   "license": "AGPL-3.0 (plus trademark policy)",
+   "license_note": "AGPL-3.0 (plus trademark policy)",
+   "stars": 2848,
+   "description": "Explore the full Bitcoin ecosystem with mempool.space, or be your own explorer and self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and more!",
+   "upstream_pushed_at": "2026-10-04T06:58:59Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/mempool/mempool#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/mempool?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/mempool/tree/master"
+  },
+  {
+   "name": "lnd",
+   "slug": "lnd",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/lightningnetwork/lnd",
+   "fork": "https://github.com/Blockchains/lnd",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 8195,
+   "description": "Lightning Network Daemon \u26a1\ufe0f",
+   "upstream_pushed_at": "2026-10-01T20:56:31Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/lightningnetwork/lnd#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lnd?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lnd/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/lnd.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/lnd/index.json",
+    "commit": "f3a8f4e8ae8237ff2b40e4724de45085170df962",
+    "component_count": 165,
+    "tags": [
+     "Bitcoin",
+     "Go-module",
+     "Substrate"
+    ]
+   }
+  },
+  {
+   "name": "bitcoinj",
+   "slug": "bitcoinj",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/bitcoinj/bitcoinj",
+   "fork": "https://github.com/Blockchains/bitcoinj",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5234,
+   "description": "A library for working with Bitcoin",
+   "upstream_pushed_at": "2026-09-28T13:45:13Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitcoinj/bitcoinj#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bitcoinj?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bitcoinj/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/bitcoinj.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/bitcoinj/index.json",
+    "commit": "80f3920a0f422a387278f827d97b70ca5a053176",
+    "component_count": 0,
+    "tags": []
+   }
+  },
+  {
+   "name": "lightning",
+   "slug": "lightning",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/ElementsProject/lightning",
+   "fork": "https://github.com/Blockchains/lightning",
+   "fork_branch": "master",
+   "license": "BSD-MIT (ccan/ modules carry their own licences)",
+   "license_note": "BSD-MIT (ccan/ modules carry their own licences)",
+   "stars": 3100,
+   "description": "Core Lightning \u2014 Lightning Network implementation focusing on spec compliance and performance",
+   "upstream_pushed_at": "2026-10-02T13:26:29Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ElementsProject/lightning#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lightning?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lightning/tree/master"
+  },
+  {
+   "name": "stacks-core",
+   "slug": "stacks-core",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/stacks-network/stacks-core",
+   "fork": "https://github.com/Blockchains/stacks-core",
+   "fork_branch": "main",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 3062,
+   "description": "The Stacks blockchain implementation",
+   "upstream_pushed_at": "2026-10-02T19:20:15Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/stacks-network/stacks-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/stacks-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/stacks-core/tree/main"
+  },
+  {
+   "name": "damus",
+   "slug": "damus",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/damus-io/damus",
+   "fork": "https://github.com/Blockchains/damus",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 2143,
+   "description": "iOS nostr client",
+   "upstream_pushed_at": "2026-09-11T17:11:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/damus-io/damus#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/damus?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/damus/tree/master"
+  },
+  {
+   "name": "Bitcoin.org",
+   "slug": "bitcoin.org",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/bitcoin-dot-org/Bitcoin.org",
+   "fork": "https://github.com/Blockchains/Bitcoin.org",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1780,
+   "description": "Bitcoin.org Website",
+   "upstream_pushed_at": "2026-09-25T21:00:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitcoin-dot-org/Bitcoin.org#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Bitcoin.org?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Bitcoin.org/tree/master"
+  },
+  {
+   "name": "electrs",
+   "slug": "electrs",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/romanz/electrs",
+   "fork": "https://github.com/Blockchains/electrs",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1397,
+   "description": "An efficient re-implementation of Electrum Server in Rust",
+   "upstream_pushed_at": "2026-09-28T20:14:47Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/romanz/electrs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/electrs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/electrs/tree/master"
+  },
+  {
+   "name": "rust-lightning",
+   "slug": "rust-lightning",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/lightningdevkit/rust-lightning",
+   "fork": "https://github.com/Blockchains/rust-lightning",
+   "fork_branch": "main",
+   "license": "MIT OR Apache-2.0",
+   "license_note": "MIT OR Apache-2.0",
+   "stars": 1375,
+   "description": "Active development happens on git.rust-bitcoin.org, this repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning",
+   "upstream_pushed_at": "2026-10-04T01:22:10Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/lightningdevkit/rust-lightning#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rust-lightning?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-lightning/tree/main"
+  },
+  {
+   "name": "eclair",
+   "slug": "eclair",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/ACINQ/eclair",
+   "fork": "https://github.com/Blockchains/eclair",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1347,
+   "description": "A scala implementation of the Lightning Network.",
+   "upstream_pushed_at": "2026-10-02T13:32:34Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ACINQ/eclair#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/eclair?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/eclair/tree/master"
+  },
+  {
+   "name": "esplora",
+   "slug": "esplora",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/Blockstream/esplora",
+   "fork": "https://github.com/Blockchains/esplora",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1269,
+   "description": "Explorer for Bitcoin and Liquid",
+   "upstream_pushed_at": "2026-09-25T13:38:49Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Blockstream/esplora#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/esplora?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/esplora/tree/master"
+  },
+  {
+   "name": "raspibolt",
+   "slug": "raspibolt",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/raspibolt/raspibolt",
+   "fork": "https://github.com/Blockchains/raspibolt",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1259,
+   "description": "RaspiBolt v3: Bitcoin & Lightning full node on a Raspberry Pi",
+   "upstream_pushed_at": "2026-10-02T15:59:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/raspibolt/raspibolt#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/raspibolt?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/raspibolt/tree/master"
+  },
+  {
+   "name": "lnbits",
+   "slug": "lnbits",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/lnbits/lnbits",
+   "fork": "https://github.com/Blockchains/lnbits",
+   "fork_branch": "dev",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1236,
+   "description": "LNbits, free and open-source Lightning wallet and accounts system.",
+   "upstream_pushed_at": "2026-10-02T12:41:17Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/lnbits/lnbits#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lnbits?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lnbits/tree/dev"
+  },
+  {
+   "name": "elements",
+   "slug": "elements",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/ElementsProject/elements",
+   "fork": "https://github.com/Blockchains/elements",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1169,
+   "description": "Open-source implementation of advanced blockchain features extending the Bitcoin protocol",
+   "upstream_pushed_at": "2026-09-23T12:27:13Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ElementsProject/elements#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/elements?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/elements/tree/master"
+  },
+  {
+   "name": "rango-client",
+   "slug": "rango-client",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/rango-exchange/rango-client",
+   "fork": "https://github.com/Blockchains/rango-client",
+   "fork_branch": "next",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1125,
+   "description": "Rango Exchange Widget & Wallets Library",
+   "upstream_pushed_at": "2026-10-04T12:05:58Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/rango-exchange/rango-client#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rango-client?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-client/tree/next"
+  },
+  {
+   "name": "bdk",
+   "slug": "bdk",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/bitcoindevkit/bdk",
+   "fork": "https://github.com/Blockchains/bdk",
+   "fork_branch": "master",
+   "license": "Apache-2.0 OR MIT",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 1072,
+   "description": "A modern, lightweight, descriptor-based wallet library written in Rust!",
+   "upstream_pushed_at": "2026-09-30T15:21:05Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitcoindevkit/bdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bdk/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/bdk.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/bdk/index.json",
+    "commit": "0790f0400b108974b538e44d6498dc6fe1157548",
+    "component_count": 7,
+    "tags": [
+     "Bitcoin",
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "LndHub",
+   "slug": "lndhub",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/BlueWallet/LndHub",
+   "fork": "https://github.com/Blockchains/LndHub",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1052,
+   "description": "Wrapper for Lightning Network Daemon. It provides separate accounts for end-users",
+   "upstream_pushed_at": "2026-07-21T05:40:14Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/BlueWallet/LndHub#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/LndHub?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/LndHub/tree/master"
+  },
+  {
+   "name": "robosats",
+   "slug": "robosats",
+   "category": "bitcoin-lightning",
+   "upstream": "https://github.com/RoboSats/robosats",
+   "fork": "https://github.com/Blockchains/robosats",
+   "fork_branch": "main",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 1030,
+   "description": "A simple and private bitcoin exchange",
+   "upstream_pushed_at": "2026-10-03T11:28:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/RoboSats/robosats#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/robosats?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/robosats/tree/main"
+  },
+  {
+   "name": "wormhole",
+   "slug": "wormhole",
+   "category": "bridges-interop",
+   "upstream": "https://github.com/wormhole-foundation/wormhole",
+   "fork": "https://github.com/Blockchains/wormhole",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1898,
+   "description": "A reference implementation for the Wormhole blockchain interoperability protocol.",
+   "upstream_pushed_at": "2026-10-01T20:52:56Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/wormhole-foundation/wormhole#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/wormhole?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wormhole/tree/main"
+  },
+  {
+   "name": "diem",
+   "slug": "diem",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/diem/diem",
+   "fork": "https://github.com/Blockchains/diem",
+   "fork_branch": "latest",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 16661,
+   "description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+   "upstream_pushed_at": "2026-10-02T05:52:37Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/diem/diem#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/diem?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/diem/tree/latest"
+  },
+  {
+   "name": "tendermint",
+   "slug": "tendermint",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/tendermint/tendermint",
+   "fork": "https://github.com/Blockchains/tendermint",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5862,
+   "description": "\u27c1 Tendermint Core (BFT Consensus) in Go",
+   "upstream_pushed_at": "2026-09-25T19:44:26Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/tendermint/tendermint#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/tendermint?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/tendermint/tree/main"
+  },
+  {
+   "name": "lbry-desktop",
+   "slug": "lbry-desktop",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/lbryio/lbry-desktop",
+   "fork": "https://github.com/Blockchains/lbry-desktop",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3518,
+   "description": "A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.",
+   "upstream_pushed_at": "2026-10-02T05:52:34Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/lbryio/lbry-desktop#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lbry-desktop?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lbry-desktop/tree/master"
+  },
+  {
+   "name": "sei-chain",
+   "slug": "sei-chain",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/sei-protocol/sei-chain",
+   "fork": "https://github.com/Blockchains/sei-chain",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2839,
+   "description": "",
+   "upstream_pushed_at": "2026-10-03T02:52:32Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/sei-protocol/sei-chain#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/sei-chain?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sei-chain/tree/main"
+  },
+  {
+   "name": "chainquery",
+   "slug": "chainquery",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/OdyseeTeam/chainquery",
+   "fork": "https://github.com/Blockchains/chainquery",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2207,
+   "description": "Chainquery parses and syncs the LBRY blockchain data into structured SQL",
+   "upstream_pushed_at": "2026-08-31T19:18:00Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OdyseeTeam/chainquery#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/chainquery?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chainquery/tree/master"
+  },
+  {
+   "name": "Planet",
+   "slug": "planet",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/Planetable/Planet",
+   "fork": "https://github.com/Blockchains/Planet",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1809,
+   "description": "Build and host decentralized blogs and websites on your Mac",
+   "upstream_pushed_at": "2026-09-20T12:39:38Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Planetable/Planet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Planet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Planet/tree/main"
+  },
+  {
+   "name": "verge",
+   "slug": "verge",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/vergecurrency/verge",
+   "fork": "https://github.com/Blockchains/verge",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1559,
+   "description": "Official Verge Core Source Code Repository",
+   "upstream_pushed_at": "2026-10-02T13:20:23Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/vergecurrency/verge#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/verge?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/verge/tree/master"
+  },
+  {
+   "name": "p2pool",
+   "slug": "p2pool",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/SChernykh/p2pool",
+   "fork": "https://github.com/Blockchains/p2pool",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 1497,
+   "description": "Decentralized pool for Monero mining",
+   "upstream_pushed_at": "2026-10-04T14:03:00Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/SChernykh/p2pool#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/p2pool?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/p2pool/tree/master"
+  },
+  {
+   "name": "node",
+   "slug": "node-1",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/mysteriumnetwork/node",
+   "fork": "https://github.com/Blockchains/node-1",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 1354,
+   "description": "Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol",
+   "upstream_pushed_at": "2026-09-30T07:35:28Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/mysteriumnetwork/node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/node-1?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/node-1/tree/master"
+  },
+  {
+   "name": "IceFireDB",
+   "slug": "icefiredb",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/IceFireDB/IceFireDB",
+   "fork": "https://github.com/Blockchains/IceFireDB",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1156,
+   "description": "@IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentralization and data immutability.",
+   "upstream_pushed_at": "2026-09-28T11:45:01Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/IceFireDB/IceFireDB#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/IceFireDB?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/IceFireDB/tree/main"
+  },
+  {
+   "name": "celestia-node",
+   "slug": "celestia-node",
+   "category": "chains-protocols",
+   "upstream": "https://github.com/celestiaorg/celestia-node",
+   "fork": "https://github.com/Blockchains/celestia-node",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1000,
+   "description": "Celestia Data Availability Nodes",
+   "upstream_pushed_at": "2026-10-02T13:01:50Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/celestiaorg/celestia-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/celestia-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/celestia-node/tree/main"
+  },
+  {
+   "name": "bitcoin",
+   "slug": "bitcoin",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/bitcoin/bitcoin",
+   "fork": "https://github.com/Blockchains/bitcoin",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 90306,
+   "description": "Bitcoin Core integration/staging tree",
+   "upstream_pushed_at": "2026-10-03T10:10:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitcoin/bitcoin#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bitcoin?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bitcoin/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/bitcoin.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/bitcoin/index.json",
+    "commit": "66776840beb558f7e84451c2c55457f0e06242f0",
+    "component_count": 2,
+    "tags": [
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "go-ethereum",
+   "slug": "go-ethereum",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/ethereum/go-ethereum",
+   "fork": "https://github.com/Blockchains/go-ethereum",
+   "fork_branch": "upstream-master",
+   "license": "LGPL-3.0",
+   "license_note": "LGPL-3.0 (library) / GPL-3.0 (binaries)",
+   "stars": 51385,
+   "description": "Go implementation of the Ethereum protocol",
+   "upstream_pushed_at": "2026-09-30T21:07:39Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/go-ethereum#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/go-ethereum?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/go-ethereum/tree/upstream-master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/go-ethereum.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/go-ethereum/index.json",
+    "commit": "c9a2bc73c847319a8faa57de59e42c0efc420682",
+    "component_count": 165,
+    "tags": [
+     "EVM",
+     "Go-module",
+     "ZK"
+    ]
+   }
+  },
+  {
+   "name": "linera-protocol",
+   "slug": "linera-protocol",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/linera-io/linera-protocol",
+   "fork": "https://github.com/Blockchains/linera-protocol",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 32100,
+   "description": "Main repository for the Linera protocol",
+   "upstream_pushed_at": "2026-09-18T03:02:33Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/linera-io/linera-protocol#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/linera-protocol?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/linera-protocol/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/linera-protocol.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/linera-protocol/index.json",
+    "commit": "672d97bb2fce3127db351069df72f1d225d8f263",
+    "component_count": 55,
+    "tags": [
+     "ERC-20",
+     "EVM",
+     "Foundry",
+     "Rust-crates",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "dogecoin",
+   "slug": "dogecoin",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/dogecoin/dogecoin",
+   "fork": "https://github.com/Blockchains/dogecoin",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 15232,
+   "description": "very currency",
+   "upstream_pushed_at": "2026-09-10T19:10:05Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/dogecoin/dogecoin#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/dogecoin?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/dogecoin/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/dogecoin.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/dogecoin/index.json",
+    "commit": "47a303a449999314abcf83bd1fc7e77dd4540fcd",
+    "component_count": 0,
+    "tags": []
+   }
+  },
+  {
+   "name": "monero",
+   "slug": "monero",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/monero-project/monero",
+   "fork": "https://github.com/Blockchains/monero",
+   "fork_branch": "master",
+   "license": "BSD-3-Clause",
+   "license_note": "BSD-3-Clause",
+   "stars": 10897,
+   "description": "Monero: the secure, private, untraceable cryptocurrency",
+   "upstream_pushed_at": "2026-10-02T19:55:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/monero-project/monero#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/monero?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/monero/tree/master"
+  },
+  {
+   "name": "chia-blockchain",
+   "slug": "chia-blockchain",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/Chia-Network/chia-blockchain",
+   "fork": "https://github.com/Blockchains/chia-blockchain",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 10790,
+   "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+   "upstream_pushed_at": "2026-10-02T16:46:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Chia-Network/chia-blockchain#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/chia-blockchain?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chia-blockchain/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/chia-blockchain.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/chia-blockchain/index.json",
+    "commit": "2a1c9335e3d3408f24cb082d73932cec39e78343",
+    "component_count": 4,
+    "tags": [
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "btcd",
+   "slug": "btcd",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/btcsuite/btcd",
+   "fork": "https://github.com/Blockchains/btcd",
+   "fork_branch": "master",
+   "license": "ISC",
+   "license_note": "ISC",
+   "stars": 6712,
+   "description": "An alternative full node bitcoin implementation written in Go (golang)",
+   "upstream_pushed_at": "2026-09-16T19:23:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/btcsuite/btcd#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/btcd?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/btcd/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/btcd.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/btcd/index.json",
+    "commit": "b48125d0a3565b1441522ee10422f7815db03216",
+    "component_count": 57,
+    "tags": [
+     "Go-module"
+    ]
+   }
+  },
+  {
+   "name": "reth",
+   "slug": "reth",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/paradigmxyz/reth",
+   "fork": "https://github.com/Blockchains/reth",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 5807,
+   "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+   "upstream_pushed_at": "2026-10-03T18:02:45Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/paradigmxyz/reth#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/reth?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/reth/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/reth.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/reth/index.json",
+    "commit": "10bcf4615d197a01a7c4c33e6be40711553aff5a",
+    "component_count": 116,
+    "tags": [
+     "EVM",
+     "Rust-crates",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "rippled",
+   "slug": "rippled",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/XRPLF/rippled",
+   "fork": "https://github.com/Blockchains/rippled",
+   "fork_branch": "develop",
+   "license": "ISC",
+   "license_note": "ISC",
+   "stars": 5218,
+   "description": "Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++",
+   "upstream_pushed_at": "2026-10-03T18:32:11Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/XRPLF/rippled#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rippled?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rippled/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/rippled.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/rippled/index.json",
+    "commit": "651bb207b4fd876e60c361c0b9639bb805a2e948",
+    "component_count": 3,
+    "tags": [
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "grin",
+   "slug": "grin",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/mimblewimble/grin",
+   "fork": "https://github.com/Blockchains/grin",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5102,
+   "description": "Minimal implementation of the Mimblewimble protocol.",
+   "upstream_pushed_at": "2026-09-24T10:01:12Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/mimblewimble/grin#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/grin?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/grin/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/grin.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/grin/index.json",
+    "commit": "d5f32350ab548736c17c1db7ff51457917fe4e96",
+    "component_count": 11,
+    "tags": [
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "java-tron",
+   "slug": "java-tron",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/tronprotocol/java-tron",
+   "fork": "https://github.com/Blockchains/java-tron",
+   "fork_branch": "develop",
+   "license": "LGPL-3.0",
+   "license_note": null,
+   "stars": 4164,
+   "description": "Java implementation of the Tron whitepaper",
+   "upstream_pushed_at": "2026-10-02T01:15:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/tronprotocol/java-tron#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/java-tron?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/java-tron/tree/develop"
+  },
+  {
+   "name": "prysm",
+   "slug": "prysm",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/OffchainLabs/prysm",
+   "fork": "https://github.com/Blockchains/prysm",
+   "fork_branch": "develop",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 3788,
+   "description": "Go implementation of Ethereum proof of stake",
+   "upstream_pushed_at": "2026-10-03T16:44:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OffchainLabs/prysm#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/prysm?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/prysm/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/prysm.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/prysm/index.json",
+    "commit": "fea24b41265542905352ab45fe2291d8eea010cc",
+    "component_count": 154,
+    "tags": [
+     "ERC-165",
+     "EVM",
+     "Go-module",
+     "ZK"
+    ]
+   }
+  },
+  {
+   "name": "erigon",
+   "slug": "erigon",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/erigontech/erigon",
+   "fork": "https://github.com/Blockchains/erigon",
+   "fork_branch": "main",
+   "license": "LGPL-3.0",
+   "license_note": "LGPL-3.0",
+   "stars": 3585,
+   "description": "Ethereum implementation on the efficiency frontier",
+   "upstream_pushed_at": "2026-10-03T17:59:45Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/erigontech/erigon#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/erigon?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/erigon/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/erigon.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/erigon/index.json",
+    "commit": "e393829ca9748bda6196f1f36839888d4715b90c",
+    "component_count": 183,
+    "tags": [
+     "EVM",
+     "Go-module",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "neo",
+   "slug": "neo",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/neo-project/neo",
+   "fork": "https://github.com/Blockchains/neo",
+   "fork_branch": "master-n3",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3536,
+   "description": "NEO Smart Economy",
+   "upstream_pushed_at": "2026-10-01T19:32:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/neo-project/neo#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/neo?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/neo/tree/master-n3",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/neo.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/neo/index.json",
+    "commit": "268175a8e1bba39c11a81723796bef1c9d11e1bd",
+    "component_count": 0,
+    "tags": []
+   }
+  },
+  {
+   "name": "nano-node",
+   "slug": "nano-node",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/nanocurrency/nano-node",
+   "fork": "https://github.com/Blockchains/nano-node",
+   "fork_branch": "develop",
+   "license": "BSD-3-Clause",
+   "license_note": "BSD-3-Clause",
+   "stars": 3525,
+   "description": "Nano is digital currency. Its ticker is: XNO and its currency symbol is: \u04fe",
+   "upstream_pushed_at": "2026-10-03T00:24:06Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/nanocurrency/nano-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/nano-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nano-node/tree/develop"
+  },
+  {
+   "name": "lighthouse",
+   "slug": "lighthouse",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/sigp/lighthouse",
+   "fork": "https://github.com/Blockchains/lighthouse",
+   "fork_branch": "stable",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 3478,
+   "description": "Ethereum consensus client in Rust",
+   "upstream_pushed_at": "2026-10-02T14:24:20Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/sigp/lighthouse#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lighthouse?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lighthouse/tree/stable"
+  },
+  {
+   "name": "bsc",
+   "slug": "bsc",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/bnb-chain/bsc",
+   "fork": "https://github.com/Blockchains/bsc",
+   "fork_branch": "master",
+   "license": "LGPL-3.0",
+   "license_note": "LGPL-3.0",
+   "stars": 3289,
+   "description": "A BNB Smart Chain client based on the go-ethereum fork",
+   "upstream_pushed_at": "2026-09-29T08:00:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bnb-chain/bsc#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bsc?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bsc/tree/master"
+  },
+  {
+   "name": "cardano-node",
+   "slug": "cardano-node",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/IntersectMBO/cardano-node",
+   "fork": "https://github.com/Blockchains/cardano-node",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 3176,
+   "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+   "upstream_pushed_at": "2026-10-04T05:27:18Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/IntersectMBO/cardano-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cardano-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cardano-node/tree/master"
+  },
+  {
+   "name": "nearcore",
+   "slug": "nearcore",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/near/nearcore",
+   "fork": "https://github.com/Blockchains/nearcore",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 2623,
+   "description": "Reference client for NEAR Protocol",
+   "upstream_pushed_at": "2026-10-03T02:47:25Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/near/nearcore#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/nearcore?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nearcore/tree/master"
+  },
+  {
+   "name": "avalanchego",
+   "slug": "avalanchego",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/ava-labs/avalanchego",
+   "fork": "https://github.com/Blockchains/avalanchego",
+   "fork_branch": "master",
+   "license": "BSD-3-Clause",
+   "license_note": null,
+   "stars": 2358,
+   "description": "Go implementation of an Avalanche node.",
+   "upstream_pushed_at": "2026-10-04T15:09:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ava-labs/avalanchego#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/avalanchego?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/avalanchego/tree/master"
+  },
+  {
+   "name": "revm",
+   "slug": "revm",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/bluealloy/revm",
+   "fork": "https://github.com/Blockchains/revm",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 2245,
+   "description": "Rust implementation of the Ethereum Virtual Machine.",
+   "upstream_pushed_at": "2026-10-01T16:05:23Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bluealloy/revm#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/revm?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/revm/tree/main"
+  },
+  {
+   "name": "helios",
+   "slug": "helios",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/a16z/helios",
+   "fork": "https://github.com/Blockchains/helios",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 2186,
+   "description": "A fast, secure, and portable multichain light client for Ethereum",
+   "upstream_pushed_at": "2026-10-01T22:25:14Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/a16z/helios#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/helios?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/helios/tree/master"
+  },
+  {
+   "name": "agave",
+   "slug": "agave",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/anza-xyz/agave",
+   "fork": "https://github.com/Blockchains/agave",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1930,
+   "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+   "upstream_pushed_at": "2026-10-03T11:07:29Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/anza-xyz/agave#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/agave?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/agave/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/agave.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/agave/index.json",
+    "commit": "5770743629fb9e4d5c2e9ef0009c155f7787b57f",
+    "component_count": 194,
+    "tags": [
+     "Rust-crates",
+     "SVM",
+     "Substrate"
+    ]
+   }
+  },
+  {
+   "name": "besu",
+   "slug": "besu",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/besu-eth/besu",
+   "fork": "https://github.com/Blockchains/besu",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1846,
+   "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki",
+   "upstream_pushed_at": "2026-10-02T21:12:32Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/besu-eth/besu#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/besu?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/besu/tree/main"
+  },
+  {
+   "name": "iotex-core",
+   "slug": "iotex-core",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/iotexproject/iotex-core",
+   "fork": "https://github.com/Blockchains/iotex-core",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1614,
+   "description": "Official implementation of IoTeX blockchain protocol in Go. An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any trusted logic requiring Web3 composability",
+   "upstream_pushed_at": "2026-10-04T05:30:54Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/iotexproject/iotex-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/iotex-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/iotex-core/tree/master"
+  },
+  {
+   "name": "nethermind",
+   "slug": "nethermind",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/NethermindEth/nethermind",
+   "fork": "https://github.com/Blockchains/nethermind",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": null,
+   "stars": 1609,
+   "description": "A robust, high-performance execution client for Ethereum node operators.",
+   "upstream_pushed_at": "2026-10-04T14:57:03Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/NethermindEth/nethermind#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/nethermind?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nethermind/tree/master"
+  },
+  {
+   "name": "harmony",
+   "slug": "harmony",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/harmony-one/harmony",
+   "fork": "https://github.com/Blockchains/harmony",
+   "fork_branch": "main",
+   "license": "LGPL-3.0",
+   "license_note": null,
+   "stars": 1447,
+   "description": "The core protocol of harmony",
+   "upstream_pushed_at": "2026-09-03T17:47:18Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/harmony-one/harmony#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/harmony?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/harmony/tree/main"
+  },
+  {
+   "name": "lodestar",
+   "slug": "lodestar",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/ChainSafe/lodestar",
+   "fork": "https://github.com/Blockchains/lodestar",
+   "fork_branch": "unstable",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1422,
+   "description": "\ud83c\udf1f Ethereum Consensus client for the Zig and TypeScript ecosystem",
+   "upstream_pushed_at": "2026-10-04T14:19:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ChainSafe/lodestar#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lodestar?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lodestar/tree/unstable"
+  },
+  {
+   "name": "bitcoin-abc",
+   "slug": "bitcoin-abc",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/Bitcoin-ABC/bitcoin-abc",
+   "fork": "https://github.com/Blockchains/bitcoin-abc",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1301,
+   "description": "Bitcoin ABC develops node software and infrastructure for the eCash project. This a mirror of the official Bitcoin-ABC repository.  Please see README.md",
+   "upstream_pushed_at": "2026-10-02T19:47:09Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Bitcoin-ABC/bitcoin-abc#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bitcoin-abc?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bitcoin-abc/tree/master"
+  },
+  {
+   "name": "AElf",
+   "slug": "aelf",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/AElfProject/AElf",
+   "fork": "https://github.com/Blockchains/AElf",
+   "fork_branch": "dev",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1267,
+   "description": "An AI-enhanced cloud-native layer-1 blockchain network.",
+   "upstream_pushed_at": "2026-09-02T04:11:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/AElfProject/AElf#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/AElf?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/AElf/tree/dev"
+  },
+  {
+   "name": "ckb",
+   "slug": "ckb",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/nervosnetwork/ckb",
+   "fork": "https://github.com/Blockchains/ckb",
+   "fork_branch": "develop",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1219,
+   "description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.",
+   "upstream_pushed_at": "2026-09-29T21:31:12Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/nervosnetwork/ckb#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ckb?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ckb/tree/develop"
+  },
+  {
+   "name": "qtum",
+   "slug": "qtum",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/qtumproject/qtum",
+   "fork": "https://github.com/Blockchains/qtum",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1211,
+   "description": "Qtum Core Wallet",
+   "upstream_pushed_at": "2026-10-01T12:52:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/qtumproject/qtum#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/qtum?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/qtum/tree/master"
+  },
+  {
+   "name": "Waves",
+   "slug": "waves",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/wavesplatform/Waves",
+   "fork": "https://github.com/Blockchains/Waves",
+   "fork_branch": "version-1.6.x",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1166,
+   "description": "\u26d3\ufe0f Reference Waves Blockchain Node (client) implementation on Scala",
+   "upstream_pushed_at": "2026-09-02T15:35:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/wavesplatform/Waves#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Waves?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Waves/tree/version-1.6.x"
+  },
+  {
+   "name": "Ravencoin",
+   "slug": "ravencoin",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/RavenProject/Ravencoin",
+   "fork": "https://github.com/Blockchains/Ravencoin",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1122,
+   "description": "Ravencoin Core integration/staging tree",
+   "upstream_pushed_at": "2026-08-18T20:07:36Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/RavenProject/Ravencoin#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Ravencoin?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Ravencoin/tree/master"
+  },
+  {
+   "name": "bor",
+   "slug": "bor",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/0xPolygon/bor",
+   "fork": "https://github.com/Blockchains/bor",
+   "fork_branch": "develop",
+   "license": "LGPL-3.0",
+   "license_note": null,
+   "stars": 1104,
+   "description": "Official repository for the Polygon Blockchain",
+   "upstream_pushed_at": "2026-10-04T10:57:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/0xPolygon/bor#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bor?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bor/tree/develop"
+  },
+  {
+   "name": "aeternity",
+   "slug": "aeternity",
+   "category": "clients-nodes",
+   "upstream": "https://github.com/aeternity/aeternity",
+   "fork": "https://github.com/Blockchains/aeternity",
+   "fork_branch": "master",
+   "license": "ISC",
+   "license_note": null,
+   "stars": 1086,
+   "description": "\u00e6ternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens",
+   "upstream_pushed_at": "2026-09-15T06:02:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/aeternity/aeternity#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/aeternity?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/aeternity/tree/master"
+  },
+  {
+   "name": "cosmos-sdk",
+   "slug": "cosmos-sdk",
+   "category": "cosmos",
+   "upstream": "https://github.com/cosmos/cosmos-sdk",
+   "fork": "https://github.com/Blockchains/cosmos-sdk",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 7071,
+   "description": "Framework for building performant, customizable blockchains with native interoperability",
+   "upstream_pushed_at": "2026-10-02T11:05:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/cosmos/cosmos-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cosmos-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cosmos-sdk/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/cosmos-sdk.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/cosmos-sdk/index.json",
+    "commit": "72a2df8cdbe5a4d21e4407ad9608300c19e74aaf",
+    "component_count": 168,
+    "tags": [
+     "Cosmos",
+     "Go-module",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "namada",
+   "slug": "namada",
+   "category": "cosmos",
+   "upstream": "https://github.com/namada-net/namada",
+   "fork": "https://github.com/Blockchains/namada",
+   "fork_branch": "main",
+   "license": "GPL-3.0",
+   "license_note": null,
+   "stars": 2516,
+   "description": "Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",
+   "upstream_pushed_at": "2026-10-02T13:25:40Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/namada-net/namada#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/namada?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/namada/tree/main"
+  },
+  {
+   "name": "cli",
+   "slug": "cli",
+   "category": "cosmos",
+   "upstream": "https://github.com/ignite/cli",
+   "fork": "https://github.com/Blockchains/cli",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1352,
+   "description": "Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK",
+   "upstream_pushed_at": "2026-10-01T00:18:56Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ignite/cli#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cli?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cli/tree/main"
+  },
+  {
+   "name": "cosmwasm",
+   "slug": "cosmwasm",
+   "category": "cosmos",
+   "upstream": "https://github.com/CosmWasm/cosmwasm",
+   "fork": "https://github.com/Blockchains/cosmwasm",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1145,
+   "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+   "upstream_pushed_at": "2026-09-28T18:43:23Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/CosmWasm/cosmwasm#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cosmwasm?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cosmwasm/tree/main"
+  },
+  {
+   "name": "node",
+   "slug": "node",
+   "category": "cosmos",
+   "upstream": "https://github.com/akash-network/node",
+   "fork": "https://github.com/Blockchains/node",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1117,
+   "description": "Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network",
+   "upstream_pushed_at": "2026-09-27T04:55:57Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/akash-network/node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/node/tree/main"
+  },
+  {
+   "name": "ibc",
+   "slug": "ibc",
+   "category": "cosmos",
+   "upstream": "https://github.com/cosmos/ibc",
+   "fork": "https://github.com/Blockchains/ibc",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1019,
+   "description": "Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.",
+   "upstream_pushed_at": "2026-10-02T19:08:41Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/cosmos/ibc#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ibc?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ibc/tree/main"
+  },
+  {
+   "name": "cometbft",
+   "slug": "cometbft",
+   "category": "cosmos",
+   "upstream": "https://github.com/cometbft/cometbft",
+   "fork": "https://github.com/Blockchains/cometbft",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 922,
+   "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
+   "upstream_pushed_at": "2026-09-28T14:57:30Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/cometbft/cometbft#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cometbft?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cometbft/tree/main"
+  },
+  {
+   "name": "tss-lib",
+   "slug": "tss-lib",
+   "category": "cryptography-mpc",
+   "upstream": "https://github.com/bnb-chain/tss-lib",
+   "fork": "https://github.com/Blockchains/tss-lib",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1045,
+   "description": "Threshold Signature Scheme, for ECDSA and EDDSA",
+   "upstream_pushed_at": "2026-09-23T03:22:27Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bnb-chain/tss-lib#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/tss-lib?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/tss-lib/tree/master"
+  },
+  {
+   "name": "chains",
+   "slug": "chains",
+   "category": "data-registries",
+   "upstream": "https://github.com/ethereum-lists/chains",
+   "fork": "https://github.com/Blockchains/chains",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 9829,
+   "description": "provides metadata for chains",
+   "upstream_pushed_at": "2026-10-02T13:48:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum-lists/chains#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/chains?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chains/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/chains.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/chains/index.json",
+    "commit": "f0b92030ef34641d618c7ec51ddc1664d1badafb",
+    "component_count": 1,
+    "tags": [
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "assets",
+   "slug": "assets",
+   "category": "data-registries",
+   "upstream": "https://github.com/trustwallet/assets",
+   "fork": "https://github.com/Blockchains/assets",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 5394,
+   "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+   "upstream_pushed_at": "2026-10-02T04:03:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/trustwallet/assets#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/assets?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/assets/tree/master"
+  },
+  {
+   "name": "interface",
+   "slug": "dmm-dao-web-app",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/interface",
+   "fork": "https://github.com/Blockchains/dmm-dao-web-app",
+   "fork_branch": "upstream-main",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 5533,
+   "description": "\ud83e\udd84 Open source interfaces for the Uniswap protocol",
+   "upstream_pushed_at": "2026-10-02T20:01:46Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/interface#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/dmm-dao-web-app?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/dmm-dao-web-app/tree/upstream-main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/dmm-dao-web-app.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/dmm-dao-web-app/index.json",
+    "commit": "47a07f1932d95565f5445c1e62046df69e7994dc",
+    "component_count": 5,
+    "tags": [
+     "EVM",
+     "SVM",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "bisq",
+   "slug": "bisq",
+   "category": "defi",
+   "upstream": "https://github.com/bisq-network/bisq",
+   "fork": "https://github.com/Blockchains/bisq",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": "AGPL-3.0",
+   "stars": 5139,
+   "description": "A decentralized bitcoin exchange network",
+   "upstream_pushed_at": "2026-10-01T20:17:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bisq-network/bisq#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bisq?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bisq/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/bisq.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/bisq/index.json",
+    "commit": "1696b1ac08e22bb3449abdfc6f039b0909661866",
+    "component_count": 0,
+    "tags": [
+     "Bitcoin"
+    ]
+   }
+  },
+  {
+   "name": "v3-core",
+   "slug": "v3-core",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v3-core",
+   "fork": "https://github.com/Blockchains/v3-core",
+   "fork_branch": "main",
+   "license": "BUSL-1.1, converted to GPL-2.0-or-later (change date 2023-04-01 passed)",
+   "license_note": "BUSL-1.1, converted to GPL-2.0-or-later (change date 2023-04-01 passed)",
+   "stars": 5026,
+   "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Core smart contracts of Uniswap v3",
+   "upstream_pushed_at": "2026-07-30T19:37:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/v3-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v3-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v3-core/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/v3-core.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/v3-core/index.json",
+    "commit": "d0831dc6b8a318df3872b6d68f6de135c9f3ec29",
+    "component_count": 35,
+    "tags": [
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "v2-core",
+   "slug": "v2-core",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v2-core",
+   "fork": "https://github.com/Blockchains/v2-core",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 3354,
+   "description": "\ud83e\udd84 \ud83e\udd84  Core smart contracts of Uniswap V2",
+   "upstream_pushed_at": "2026-07-21T20:02:45Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/v2-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v2-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-core/tree/master"
+  },
+  {
+   "name": "v4-core",
+   "slug": "v4-core",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v4-core",
+   "fork": "https://github.com/Blockchains/v4-core",
+   "fork_branch": "main",
+   "license": "BUSL-1.1 (core) / MIT (interfaces, tests)",
+   "license_note": "BUSL-1.1 (core) / MIT (interfaces, tests)",
+   "stars": 2538,
+   "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Core smart contracts of Uniswap v4",
+   "upstream_pushed_at": "2026-04-24T19:50:04Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/uniswap-v4-hook"
+   ],
+   "docs": [
+    "https://github.com/Uniswap/v4-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v4-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v4-core/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/v4-core.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/v4-core/index.json",
+    "commit": "46c6834698c48bc4a463a86d8420f4eb1d7f3b75",
+    "component_count": 45,
+    "tags": [
+     "ERC-165",
+     "ERC-20",
+     "EVM",
+     "Foundry",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "rango-sdk",
+   "slug": "rango-sdk",
+   "category": "defi",
+   "upstream": "https://github.com/rango-exchange/rango-sdk",
+   "fork": "https://github.com/Blockchains/rango-sdk",
+   "fork_branch": "next",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1656,
+   "description": "Rango Exchange Typescript SDK",
+   "upstream_pushed_at": "2026-09-30T21:04:53Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/rango-exchange/rango-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rango-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-sdk/tree/next"
+  },
+  {
+   "name": "0x-monorepo",
+   "slug": "0x-monorepo",
+   "category": "defi",
+   "upstream": "https://github.com/0xProject/0x-monorepo",
+   "fork": "https://github.com/Blockchains/0x-monorepo",
+   "fork_branch": "development",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1408,
+   "description": "0x protocol monorepo - includes our smart contracts and many developer tools",
+   "upstream_pushed_at": "2026-09-11T16:28:57Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/0xProject/0x-monorepo#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/0x-monorepo?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/0x-monorepo/tree/development"
+  },
+  {
+   "name": "haveno",
+   "slug": "haveno",
+   "category": "defi",
+   "upstream": "https://github.com/haveno-dex/haveno",
+   "fork": "https://github.com/Blockchains/haveno",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 1400,
+   "description": "Decentralized P2P exchange platform built on Monero and Tor",
+   "upstream_pushed_at": "2026-10-04T11:24:03Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/haveno-dex/haveno#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/haveno?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/haveno/tree/master"
+  },
+  {
+   "name": "v3-periphery",
+   "slug": "v3-periphery",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v3-periphery",
+   "fork": "https://github.com/Blockchains/v3-periphery",
+   "fork_branch": "main",
+   "license": "GPL-2.0",
+   "license_note": null,
+   "stars": 1334,
+   "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Peripheral smart contracts for interacting with Uniswap v3",
+   "upstream_pushed_at": "2026-07-30T19:37:42Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/v3-periphery#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v3-periphery?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v3-periphery/tree/main"
+  },
+  {
+   "name": "v2-periphery",
+   "slug": "v2-periphery",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v2-periphery",
+   "fork": "https://github.com/Blockchains/v2-periphery",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": null,
+   "stars": 1266,
+   "description": "\ud83c\udf9a Peripheral smart contracts for interacting with Uniswap V2",
+   "upstream_pushed_at": "2026-09-30T02:24:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/v2-periphery#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v2-periphery?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-periphery/tree/master"
+  },
+  {
+   "name": "uniswap-python",
+   "slug": "uniswap-python",
+   "category": "defi",
+   "upstream": "https://github.com/uniswap-python/uniswap-python",
+   "fork": "https://github.com/Blockchains/uniswap-python",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1019,
+   "description": "\ud83e\udd84 The unofficial Python client for the Uniswap exchange.",
+   "upstream_pushed_at": "2026-08-05T18:10:35Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/uniswap-python/uniswap-python#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/uniswap-python?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-python/tree/master"
+  },
+  {
+   "name": "v4-periphery",
+   "slug": "v4-periphery",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v4-periphery",
+   "fork": "https://github.com/Blockchains/v4-periphery",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 907,
+   "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Peripheral smart contracts for interacting with Uniswap v4",
+   "upstream_pushed_at": "2026-10-01T20:49:11Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/uniswap-v4-hook"
+   ],
+   "docs": [
+    "https://github.com/Uniswap/v4-periphery#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v4-periphery?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v4-periphery/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/v4-periphery.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/v4-periphery/index.json",
+    "commit": "9969eec44cfdf07e24b41de47f40276a58401976",
+    "component_count": 69,
+    "tags": [
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "morpho-blue",
+   "slug": "morpho-blue",
+   "category": "defi",
+   "upstream": "https://github.com/morpho-org/morpho-blue",
+   "fork": "https://github.com/Blockchains/morpho-blue",
+   "fork_branch": "main",
+   "license": "GPL-2.0",
+   "license_note": null,
+   "stars": 361,
+   "description": "Morpho's variable rate markets protocol",
+   "upstream_pushed_at": "2026-09-24T10:26:53Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/morpho-org/morpho-blue#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/morpho-blue?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/morpho-blue/tree/main"
+  },
+  {
+   "name": "v4-template",
+   "slug": "v4-template",
+   "category": "defi",
+   "upstream": "https://github.com/Uniswap/v4-template",
+   "fork": "https://github.com/Blockchains/v4-template",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 340,
+   "description": "Template repository for writing Uniswap v4 Hooks",
+   "upstream_pushed_at": "2025-10-28T13:28:32Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Uniswap/v4-template#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/v4-template?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v4-template/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/v4-template.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/v4-template/index.json",
+    "commit": "1fbf95547791f0821a170b88c750cb2e04e6818b",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "Foundry"
+    ]
+   }
+  },
+  {
+   "name": "uniswap-hooks",
+   "slug": "uniswap-hooks",
+   "category": "defi",
+   "upstream": "https://github.com/OpenZeppelin/uniswap-hooks",
+   "fork": "https://github.com/Blockchains/uniswap-hooks",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 127,
+   "description": "Solidity library for secure and modular Uniswap hooks.",
+   "upstream_pushed_at": "2026-10-02T18:28:14Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/uniswap-v4-hook"
+   ],
+   "docs": [
+    "https://github.com/OpenZeppelin/uniswap-hooks#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/uniswap-hooks?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-hooks/tree/master"
+  },
+  {
+   "name": "foundry",
+   "slug": "foundry",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/foundry-rs/foundry",
+   "fork": "https://github.com/Blockchains/foundry",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 10633,
+   "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+   "upstream_pushed_at": "2026-10-03T18:06:29Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/foundry-oz-tokens"
+   ],
+   "docs": [
+    "https://github.com/foundry-rs/foundry#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/foundry?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/foundry/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/foundry.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/foundry/index.json",
+    "commit": "60255eee79332caef99f0c885f55589769f8f0c0",
+    "component_count": 49,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "Rust-crates",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "ethers.js",
+   "slug": "ethers-js",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/ethers-io/ethers.js",
+   "fork": "https://github.com/Blockchains/ethers.js",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 8710,
+   "description": "Complete Ethereum library and wallet implementation in JavaScript.",
+   "upstream_pushed_at": "2026-06-18T05:08:13Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethers-io/ethers.js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ethers.js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ethers.js/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/ethers-js.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/ethers-js/index.json",
+    "commit": "3ea4c226dd0b3a074abf90748de9d11192027f4f",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "hardhat",
+   "slug": "buidler",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/NomicFoundation/hardhat",
+   "fork": "https://github.com/Blockchains/buidler",
+   "fork_branch": "upstream-main",
+   "license": "MIT (per package)",
+   "license_note": "MIT (per package)",
+   "stars": 8509,
+   "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.",
+   "upstream_pushed_at": "2026-10-02T20:28:34Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/NomicFoundation/hardhat#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/buidler?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/buidler/tree/upstream-main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/buidler.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/buidler/index.json",
+    "commit": "f9d8fde2b2789a4827914c8072529bb705ea9b5e",
+    "component_count": 61,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "wagmi",
+   "slug": "wagmi",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/wevm/wagmi",
+   "fork": "https://github.com/Blockchains/wagmi",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 6754,
+   "description": "Reactive primitives for Ethereum apps",
+   "upstream_pushed_at": "2026-10-01T18:05:04Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/wagmi-rainbowkit-dapp"
+   ],
+   "docs": [
+    "https://github.com/wevm/wagmi#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/wagmi?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wagmi/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/wagmi.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/wagmi/index.json",
+    "commit": "c458d201b0218a9e371de9fdd9a35b6b475fb1b2",
+    "component_count": 11,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "web3.py",
+   "slug": "web3.py",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/ApeWorX/web3.py",
+   "fork": "https://github.com/Blockchains/web3.py",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 5538,
+   "description": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
+   "upstream_pushed_at": "2026-09-29T16:23:04Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ApeWorX/web3.py#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/web3.py?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/web3.py/tree/main"
+  },
+  {
+   "name": "web3j",
+   "slug": "web3j",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/LFDT-web3j/web3j",
+   "fork": "https://github.com/Blockchains/web3j",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5403,
+   "description": "Lightweight Java and Android library for integration with Ethereum clients",
+   "upstream_pushed_at": "2026-10-02T15:24:30Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/LFDT-web3j/web3j#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/web3j?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/web3j/tree/main"
+  },
+  {
+   "name": "viem",
+   "slug": "viem",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/wevm/viem",
+   "fork": "https://github.com/Blockchains/viem",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3571,
+   "description": "TypeScript Interface for Ethereum",
+   "upstream_pushed_at": "2026-10-02T08:19:07Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/wagmi-rainbowkit-dapp"
+   ],
+   "docs": [
+    "https://github.com/wevm/viem#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/viem?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/viem/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/viem.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/viem/index.json",
+    "commit": "26d5bd227ba532ceff83bd76e807ea605c703e8b",
+    "component_count": 19,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "remix-project",
+   "slug": "remix-project",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/remix-project-org/remix-project",
+   "fork": "https://github.com/Blockchains/remix-project",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 3061,
+   "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+   "upstream_pushed_at": "2026-10-02T09:59:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/remix-project-org/remix-project#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/remix-project?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-project/tree/master"
+  },
+  {
+   "name": "brownie",
+   "slug": "brownie",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/eth-brownie/brownie",
+   "fork": "https://github.com/Blockchains/brownie",
+   "fork_branch": "upstream-master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2722,
+   "description": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+   "upstream_pushed_at": "2026-08-05T06:41:17Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/eth-brownie/brownie#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/brownie?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/brownie/tree/upstream-master"
+  },
+  {
+   "name": "Nethereum",
+   "slug": "nethereum",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/Nethereum/Nethereum",
+   "fork": "https://github.com/Blockchains/Nethereum",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 2259,
+   "description": "Ethereum .Net cross platform integration library",
+   "upstream_pushed_at": "2026-10-02T06:06:09Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Nethereum/Nethereum#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Nethereum?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Nethereum/tree/master"
+  },
+  {
+   "name": "scaffold-eth-2",
+   "slug": "scaffold-eth-2",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/scaffold-eth/scaffold-eth-2",
+   "fork": "https://github.com/Blockchains/scaffold-eth-2",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2054,
+   "description": "Open source forkable Ethereum dev stack",
+   "upstream_pushed_at": "2026-08-27T06:08:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/scaffold-eth/scaffold-eth-2#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/scaffold-eth-2?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/scaffold-eth-2/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/scaffold-eth-2.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/scaffold-eth-2/index.json",
+    "commit": "6cdf354a4a02aded39c92d5e0d83cd24e4628239",
+    "component_count": 2,
+    "tags": [
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "go-stellar-sdk",
+   "slug": "go-stellar-sdk",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/stellar/go-stellar-sdk",
+   "fork": "https://github.com/Blockchains/go-stellar-sdk",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1384,
+   "description": "Stellar's Go SDK",
+   "upstream_pushed_at": "2026-10-02T20:05:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/stellar/go-stellar-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/go-stellar-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/go-stellar-sdk/tree/main"
+  },
+  {
+   "name": "alloy",
+   "slug": "alloy",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/alloy-rs/alloy",
+   "fork": "https://github.com/Blockchains/alloy",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1334,
+   "description": "Transports, Middleware, and Networks for the Alloy project",
+   "upstream_pushed_at": "2026-10-04T14:47:41Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/alloy-rs/alloy#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/alloy?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/alloy/tree/main"
+  },
+  {
+   "name": "hardhat-deploy",
+   "slug": "hardhat-deploy",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/wighawag/hardhat-deploy",
+   "fork": "https://github.com/Blockchains/hardhat-deploy",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1267,
+   "description": "hardhat deployment plugin",
+   "upstream_pushed_at": "2026-09-07T07:13:04Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/wighawag/hardhat-deploy#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hardhat-deploy?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hardhat-deploy/tree/main"
+  },
+  {
+   "name": "starknet.js",
+   "slug": "starknet.js",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/starknet-io/starknet.js",
+   "fork": "https://github.com/Blockchains/starknet.js",
+   "fork_branch": "develop",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1254,
+   "description": "JavaScript library for Starknet",
+   "upstream_pushed_at": "2026-10-01T14:57:41Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/starknet-io/starknet.js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/starknet.js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/starknet.js/tree/develop"
+  },
+  {
+   "name": "whatsabi",
+   "slug": "whatsabi",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/shazow/whatsabi",
+   "fork": "https://github.com/Blockchains/whatsabi",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1162,
+   "description": "Extract the ABI (and resolve proxies, and get other metadata) from Ethereum bytecode, even without source code.",
+   "upstream_pushed_at": "2026-09-27T19:44:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/shazow/whatsabi#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/whatsabi?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/whatsabi/tree/main"
+  },
+  {
+   "name": "forge-std",
+   "slug": "forge-std",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/foundry-rs/forge-std",
+   "fork": "https://github.com/Blockchains/forge-std",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 1058,
+   "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+   "upstream_pushed_at": "2026-10-01T12:43:43Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/foundry-oz-tokens"
+   ],
+   "docs": [
+    "https://github.com/foundry-rs/forge-std#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/forge-std?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/forge-std/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/forge-std.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/forge-std/index.json",
+    "commit": "c6fa5d82a3a287c4ff23f26c8f7e2958aafd32d9",
+    "component_count": 45,
+    "tags": [
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "ape",
+   "slug": "ape",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/ApeWorX/ape",
+   "fork": "https://github.com/Blockchains/ape",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1054,
+   "description": "Build and explore on-chain with Python",
+   "upstream_pushed_at": "2026-09-25T01:18:05Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ApeWorX/ape#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ape?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ape/tree/main"
+  },
+  {
+   "name": "fabric",
+   "slug": "fabric",
+   "category": "enterprise-ledgers",
+   "upstream": "https://github.com/hyperledger/fabric",
+   "fork": "https://github.com/Blockchains/fabric",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 16735,
+   "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+   "upstream_pushed_at": "2026-10-02T20:39:08Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hyperledger/fabric#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/fabric?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/fabric/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/fabric.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/fabric/index.json",
+    "commit": "9e0dd098f12ef8c32b553738d66219c95af16b6c",
+    "component_count": 154,
+    "tags": [
+     "Go-module",
+     "Substrate",
+     "ZK"
+    ]
+   }
+  },
+  {
+   "name": "fabric-samples",
+   "slug": "fabric-samples",
+   "category": "enterprise-ledgers",
+   "upstream": "https://github.com/hyperledger/fabric-samples",
+   "fork": "https://github.com/Blockchains/fabric-samples",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 3020,
+   "description": "Samples for Hyperledger Fabric",
+   "upstream_pushed_at": "2026-09-18T09:27:40Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hyperledger/fabric-samples#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/fabric-samples?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/fabric-samples/tree/main"
+  },
+  {
+   "name": "FISCO-BCOS",
+   "slug": "fisco-bcos",
+   "category": "enterprise-ledgers",
+   "upstream": "https://github.com/FISCO-BCOS/FISCO-BCOS",
+   "fork": "https://github.com/Blockchains/FISCO-BCOS",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2608,
+   "description": "FISCO BCOS\uff08\u53d1\u97f3\u4e3a/\u02c8f\u026askl bi:\u02c8k\u0252z/\uff09\u662f\u4e00\u4e2a\u7a33\u5b9a\u3001\u9ad8\u6548\u3001\u5b89\u5168\u7684\u8bb8\u53ef\u533a\u5757\u94fe\u5e73\u53f0\uff0c\u5df2\u88ab\u5e7f\u6cdb\u5e94\u7528\u4e8e\u73b0\u5b9e\u7684\u884c\u4e1a\u5e94\u7528\u3002\u622a\u81f3\u76ee\u524d\uff0c\u5df2\u62e5\u67095000\u591a\u5bb6\u4f01\u4e8b\u4e1a\u5355\u4f4d\uff0c400\u591a\u4e2a\u4ea7\u4e1a\u6570\u5b57\u5316\u6807\u6746\u5e94\u7528\uff0c\u6db5\u76d6\u6587\u5316\u7248\u6743\u3001\u53f8\u6cd5\u670d\u52a1\u3001\u653f\u5e9c\u670d\u52a1\u3001\u7269\u8054\u7f51\u3001\u91d1\u878d\u3001\u667a\u6167\u793e\u533a\u3001\u623f\u5730\u4ea7\u5efa\u8bbe\u3001\u793e\u533a\u6cbb\u7406\u3001\u4e61\u6751\u632f\u5174\u7b49\u9886\u57df\u3002FISCO BCOS (pronounced /\u02c8f\u026askl bi:\u02c8k\u0252z/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications.",
+   "upstream_pushed_at": "2026-09-30T09:34:40Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/FISCO-BCOS/FISCO-BCOS#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/FISCO-BCOS?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/FISCO-BCOS/tree/master"
+  },
+  {
+   "name": "EIPs",
+   "slug": "eips",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/ethereum/EIPs",
+   "fork": "https://github.com/Blockchains/EIPs",
+   "fork_branch": "master",
+   "license": "CC0-1.0",
+   "license_note": null,
+   "stars": 13993,
+   "description": "The Ethereum Improvement Proposal repository",
+   "upstream_pushed_at": "2026-10-04T15:20:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/EIPs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/EIPs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/EIPs/tree/master"
+  },
+  {
+   "name": "ethereum-org-website",
+   "slug": "ethereum-org-website",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/ethereum/ethereum-org-website",
+   "fork": "https://github.com/Blockchains/ethereum-org-website",
+   "fork_branch": "dev",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 5976,
+   "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+   "upstream_pushed_at": "2026-10-04T15:52:20Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/ethereum-org-website#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ethereum-org-website?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ethereum-org-website/tree/dev"
+  },
+  {
+   "name": "PoWFaucet",
+   "slug": "powfaucet",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/pk910/PoWFaucet",
+   "fork": "https://github.com/Blockchains/PoWFaucet",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": "AGPL-3.0",
+   "stars": 5631,
+   "description": "Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)",
+   "upstream_pushed_at": "2026-09-28T17:44:42Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/pk910/PoWFaucet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/PoWFaucet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/PoWFaucet/tree/master"
+  },
+  {
+   "name": "consensus-specs",
+   "slug": "consensus-specs",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/ethereum/consensus-specs",
+   "fork": "https://github.com/Blockchains/consensus-specs",
+   "fork_branch": "master",
+   "license": "CC0-1.0",
+   "license_note": null,
+   "stars": 3966,
+   "description": "Ethereum Consensus Specifications",
+   "upstream_pushed_at": "2026-10-01T17:12:10Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/consensus-specs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/consensus-specs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/consensus-specs/tree/master"
+  },
+  {
+   "name": "remix-ide",
+   "slug": "remix-ide",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/remix-project-org/remix-ide",
+   "fork": "https://github.com/Blockchains/remix-ide",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 2352,
+   "description": "Documentation for Remix IDE",
+   "upstream_pushed_at": "2026-10-02T02:35:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/remix-project-org/remix-ide#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/remix-ide?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-ide/tree/master"
+  },
+  {
+   "name": "execution-specs",
+   "slug": "execution-specs",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/ethereum/execution-specs",
+   "fork": "https://github.com/Blockchains/execution-specs",
+   "fork_branch": "forks/amsterdam",
+   "license": "CC0-1.0",
+   "license_note": null,
+   "stars": 1194,
+   "description": "Specification for the Execution Layer. Tracking network upgrades.",
+   "upstream_pushed_at": "2026-10-03T23:57:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/execution-specs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/execution-specs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-specs/tree/forks/amsterdam"
+  },
+  {
+   "name": "execution-apis",
+   "slug": "execution-apis",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/ethereum/execution-apis",
+   "fork": "https://github.com/Blockchains/execution-apis",
+   "fork_branch": "main",
+   "license": "CC0-1.0",
+   "license_note": null,
+   "stars": 1136,
+   "description": "Collection of APIs provided by Ethereum execution layer clients",
+   "upstream_pushed_at": "2026-09-22T19:13:12Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum/execution-apis#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/execution-apis?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-apis/tree/main"
+  },
+  {
+   "name": "intellij-solidity",
+   "slug": "intellij-solidity",
+   "category": "ethereum-evm",
+   "upstream": "https://github.com/intellij-solidity/intellij-solidity",
+   "fork": "https://github.com/Blockchains/intellij-solidity",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 1099,
+   "description": "Solidity plugin for IntelliJ",
+   "upstream_pushed_at": "2026-10-03T09:07:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/intellij-solidity/intellij-solidity#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/intellij-solidity?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/intellij-solidity/tree/master"
+  },
+  {
+   "name": "standards-sdk",
+   "slug": "standards-sdk",
+   "category": "hedera",
+   "upstream": "https://github.com/hashgraph-online/standards-sdk",
+   "fork": "https://github.com/Blockchains/standards-sdk",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1240,
+   "description": "The official HOL Standards SDK, implementing the standards found in https://hol.org/docs/standards",
+   "upstream_pushed_at": "2026-10-01T15:50:37Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hashgraph-online/standards-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/standards-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/standards-sdk/tree/main"
+  },
+  {
+   "name": "hiero-consensus-node",
+   "slug": "hiero-consensus-node",
+   "category": "hedera",
+   "upstream": "https://github.com/hiero-ledger/hiero-consensus-node",
+   "fork": "https://github.com/Blockchains/hiero-consensus-node",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 410,
+   "description": "Crypto, token, consensus, file, and smart contract services for a Hiero based network",
+   "upstream_pushed_at": "2026-10-03T06:42:51Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hiero-ledger/hiero-consensus-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hiero-consensus-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-consensus-node/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/hiero-consensus-node.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/hiero-consensus-node/index.json",
+    "commit": "c2cd3bd80de7b79655d4719f20ce33313f3e7d4c",
+    "component_count": 424,
+    "tags": [
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-721",
+     "EVM"
+    ]
+   }
+  },
+  {
+   "name": "hiero-sdk-js",
+   "slug": "hiero-sdk-js",
+   "category": "hedera",
+   "upstream": "https://github.com/hiero-ledger/hiero-sdk-js",
+   "fork": "https://github.com/Blockchains/hiero-sdk-js",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 330,
+   "description": "A JavaScript/TypeScript SDK for Hiero: A Javascript toolkit for creating, updating, and interacting with on-ledger assets and smart contracts on Hedera and other Hiero networks",
+   "upstream_pushed_at": "2026-10-02T13:19:01Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/hedera-token-sdk"
+   ],
+   "docs": [
+    "https://github.com/hiero-ledger/hiero-sdk-js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hiero-sdk-js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-sdk-js/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/hiero-sdk-js.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/hiero-sdk-js/index.json",
+    "commit": "96467fd12bb796f7280b1b76e79ffaa884c946af",
+    "component_count": 5,
+    "tags": [
+     "EVM",
+     "Hedera",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "hiero-mirror-node",
+   "slug": "hiero-mirror-node",
+   "category": "hedera",
+   "upstream": "https://github.com/hiero-ledger/hiero-mirror-node",
+   "fork": "https://github.com/Blockchains/hiero-mirror-node",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 186,
+   "description": "Hiero Mirror Node archives data from consensus nodes and serves it via an API",
+   "upstream_pushed_at": "2026-10-04T08:57:45Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hiero-ledger/hiero-mirror-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hiero-mirror-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-mirror-node/tree/main"
+  },
+  {
+   "name": "hiero-json-rpc-relay",
+   "slug": "hiero-json-rpc-relay",
+   "category": "hedera",
+   "upstream": "https://github.com/hiero-ledger/hiero-json-rpc-relay",
+   "fork": "https://github.com/Blockchains/hiero-json-rpc-relay",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 92,
+   "description": "Implementation of Ethereum JSON-RPC APIs for Hedera",
+   "upstream_pushed_at": "2026-10-04T12:32:29Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hiero-ledger/hiero-json-rpc-relay#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hiero-json-rpc-relay?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-json-rpc-relay/tree/main"
+  },
+  {
+   "name": "hedera-smart-contracts",
+   "slug": "hedera-smart-contracts",
+   "category": "hedera",
+   "upstream": "https://github.com/hashgraph/hedera-smart-contracts",
+   "fork": "https://github.com/Blockchains/hedera-smart-contracts",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 64,
+   "description": "Contains Hedera Smart Contract Service supporting files",
+   "upstream_pushed_at": "2026-09-28T14:37:29Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/hedera-token-sdk"
+   ],
+   "docs": [
+    "https://github.com/hashgraph/hedera-smart-contracts#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/hedera-smart-contracts?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hedera-smart-contracts/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/hedera-smart-contracts.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/hedera-smart-contracts/index.json",
+    "commit": "43854b5c927e467b53f36316a5097f2b0815c75b",
+    "component_count": 164,
+    "tags": [
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "Hedera",
+     "Proxy/Upgradeable",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "amethyst",
+   "slug": "amethyst",
+   "category": "identity",
+   "upstream": "https://github.com/vitorpamplona/amethyst",
+   "fork": "https://github.com/Blockchains/amethyst",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1607,
+   "description": "Nostr client for Android",
+   "upstream_pushed_at": "2026-10-04T15:43:49Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/vitorpamplona/amethyst#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/amethyst?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/amethyst/tree/main"
+  },
+  {
+   "name": "semaphore",
+   "slug": "semaphore",
+   "category": "identity",
+   "upstream": "https://github.com/semaphore-protocol/semaphore",
+   "fork": "https://github.com/Blockchains/semaphore",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1088,
+   "description": "A zero-knowledge protocol for anonymous interactions.",
+   "upstream_pushed_at": "2026-09-18T10:02:18Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/semaphore-protocol/semaphore#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/semaphore?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/semaphore/tree/main"
+  },
+  {
+   "name": "graph-node",
+   "slug": "graph-node",
+   "category": "indexing",
+   "upstream": "https://github.com/graphprotocol/graph-node",
+   "fork": "https://github.com/Blockchains/graph-node",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 3153,
+   "description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL",
+   "upstream_pushed_at": "2026-08-25T16:04:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/graphprotocol/graph-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/graph-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/graph-node/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/graph-node.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/graph-node/index.json",
+    "commit": "6838f4e3cf3607c5bc32ef705dd05aec1eb057ab",
+    "component_count": 20,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "squid-sdk",
+   "slug": "squid-sdk",
+   "category": "indexing",
+   "upstream": "https://github.com/subsquid/squid-sdk",
+   "fork": "https://github.com/Blockchains/squid-sdk",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1339,
+   "description": "TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network.",
+   "upstream_pushed_at": "2026-10-03T13:47:57Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/subsquid/squid-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/squid-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/squid-sdk/tree/master"
+  },
+  {
+   "name": "ponder",
+   "slug": "ponder",
+   "category": "indexing",
+   "upstream": "https://github.com/ponder-sh/ponder",
+   "fork": "https://github.com/Blockchains/ponder",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1147,
+   "description": "The backend framework for crypto apps",
+   "upstream_pushed_at": "2026-10-02T20:31:01Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ponder-sh/ponder#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ponder?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ponder/tree/main"
+  },
+  {
+   "name": "trueblocks-core",
+   "slug": "trueblocks-core",
+   "category": "indexing",
+   "upstream": "https://github.com/TrueBlocks/trueblocks-core",
+   "fork": "https://github.com/Blockchains/trueblocks-core",
+   "fork_branch": "main",
+   "license": "GPL-3.0",
+   "license_note": null,
+   "stars": 1095,
+   "description": "The main repository for the TrueBlocks system",
+   "upstream_pushed_at": "2026-07-18T19:20:25Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/TrueBlocks/trueblocks-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/trueblocks-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/trueblocks-core/tree/main"
+  },
+  {
+   "name": "graph-tooling",
+   "slug": "graph-tooling",
+   "category": "indexing",
+   "upstream": "https://github.com/graphprotocol/graph-tooling",
+   "fork": "https://github.com/Blockchains/graph-tooling",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 424,
+   "description": "Monorepo for various tools used by subgraph developers.",
+   "upstream_pushed_at": "2026-10-03T13:51:47Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/graphprotocol/graph-tooling#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/graph-tooling?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/graph-tooling/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/graph-tooling.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/graph-tooling/index.json",
+    "commit": "7fe67ac310e5f4f17dbdaabb0cb0ee0812e4101a",
+    "component_count": 2,
+    "tags": [
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "optimism",
+   "slug": "optimism",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/ethereum-optimism/optimism",
+   "fork": "https://github.com/Blockchains/optimism",
+   "fork_branch": "develop",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 6476,
+   "description": "Optimism is Ethereum, scaled.",
+   "upstream_pushed_at": "2026-10-02T22:52:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethereum-optimism/optimism#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/optimism?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/optimism/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/optimism.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/optimism/index.json",
+    "commit": "c8e4ba855d79ca56463909ef5a2c5830a1189401",
+    "component_count": 485,
+    "tags": [
+     "EIP-712",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Go-module",
+     "Proxy/Upgradeable",
+     "Rust-crates",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "taiko-mono",
+   "slug": "taiko-mono",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/taikoxyz/taiko-mono",
+   "fork": "https://github.com/Blockchains/taiko-mono",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 4557,
+   "description": "A based rollup protocol for Ethereum\ud83e\udd41",
+   "upstream_pushed_at": "2026-10-04T15:35:53Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/taikoxyz/taiko-mono#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/taiko-mono?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/taiko-mono/tree/main"
+  },
+  {
+   "name": "zksync-era",
+   "slug": "zksync-era",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/matter-labs/zksync-era",
+   "fork": "https://github.com/Blockchains/zksync-era",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 3236,
+   "description": "zkSync era",
+   "upstream_pushed_at": "2026-09-24T23:32:27Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/matter-labs/zksync-era#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/zksync-era?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/zksync-era/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/zksync-era.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/zksync-era/index.json",
+    "commit": "ff5f519b11cff863edcfa0f75af10fea113806b0",
+    "component_count": 175,
+    "tags": [
+     "ERC-20",
+     "ERC-4337",
+     "EVM",
+     "Hardhat",
+     "Rust-crates",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "arbitrum-classic",
+   "slug": "arbitrum-classic",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/OffchainLabs/arbitrum-classic",
+   "fork": "https://github.com/Blockchains/arbitrum-classic",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2002,
+   "description": "Powers fast, private, decentralized applications",
+   "upstream_pushed_at": "2026-09-09T15:12:35Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OffchainLabs/arbitrum-classic#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/arbitrum-classic?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/arbitrum-classic/tree/master"
+  },
+  {
+   "name": "simple-taiko-node",
+   "slug": "simple-taiko-node",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/taikoxyz/simple-taiko-node",
+   "fork": "https://github.com/Blockchains/simple-taiko-node",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1110,
+   "description": "Start your Taiko node with a single command.  \ud83c\udf10",
+   "upstream_pushed_at": "2026-09-29T13:53:10Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/taikoxyz/simple-taiko-node#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/simple-taiko-node?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/simple-taiko-node/tree/main"
+  },
+  {
+   "name": "stylus-sdk-rs",
+   "slug": "stylus-sdk-rs",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/OffchainLabs/stylus-sdk-rs",
+   "fork": "https://github.com/Blockchains/stylus-sdk-rs",
+   "fork_branch": "main",
+   "license": "Apache-2.0 OR MIT",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 325,
+   "description": "Rust Smart Contracts on Arbitrum",
+   "upstream_pushed_at": "2026-10-02T23:25:47Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OffchainLabs/stylus-sdk-rs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/stylus-sdk-rs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/stylus-sdk-rs/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/stylus-sdk-rs.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/stylus-sdk-rs/index.json",
+    "commit": "76f8b055ec0bf421edd542b164dc2917c9e4e0bd",
+    "component_count": 19,
+    "tags": [
+     "ERC-165",
+     "ERC-20",
+     "ERC-721",
+     "EVM",
+     "Hardhat",
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "solidity",
+   "slug": "solidity",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/argotorg/solidity",
+   "fork": "https://github.com/Blockchains/solidity",
+   "fork_branch": "develop",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 25745,
+   "description": "Solidity, the Smart Contract Programming Language",
+   "upstream_pushed_at": "2026-10-02T21:23:57Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/argotorg/solidity#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solidity?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solidity/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/solidity.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/solidity/index.json",
+    "commit": "1a7bdaa64d22976e2a60c56cefe5e18b84f945d3",
+    "component_count": 0,
+    "tags": [
+     "ERC-165",
+     "ERC-20",
+     "ERC-721",
+     "EVM"
+    ]
+   }
+  },
+  {
+   "name": "vyper",
+   "slug": "vyper",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/vyperlang/vyper",
+   "fork": "https://github.com/Blockchains/vyper",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5184,
+   "description": "Pythonic Smart Contract Language for the EVM",
+   "upstream_pushed_at": "2026-10-02T15:59:35Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/vyperlang/vyper#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/vyper?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/vyper/tree/master"
+  },
+  {
+   "name": "cairo",
+   "slug": "cairo",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/starkware-libs/cairo",
+   "fork": "https://github.com/Blockchains/cairo",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1908,
+   "description": "Cairo is the first Turing-complete language for creating provable programs for general computation.",
+   "upstream_pushed_at": "2026-10-04T13:54:10Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/starkware-libs/cairo#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cairo?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo/tree/main"
+  },
+  {
+   "name": "fe",
+   "slug": "fe",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/argotorg/fe",
+   "fork": "https://github.com/Blockchains/fe",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1732,
+   "description": "Emerging smart contract language for the Ethereum blockchain.",
+   "upstream_pushed_at": "2026-10-04T16:26:02Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/argotorg/fe#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/fe?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/fe/tree/master"
+  },
+  {
+   "name": "plutus",
+   "slug": "plutus",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/IntersectMBO/plutus",
+   "fork": "https://github.com/Blockchains/plutus",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1632,
+   "description": "The Plutus language implementation and tools",
+   "upstream_pushed_at": "2026-10-03T13:11:47Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/IntersectMBO/plutus#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/plutus?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/plutus/tree/master"
+  },
+  {
+   "name": "solc-js",
+   "slug": "solc-js",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/argotorg/solc-js",
+   "fork": "https://github.com/Blockchains/solc-js",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1508,
+   "description": "Javascript bindings for the Solidity compiler",
+   "upstream_pushed_at": "2026-09-10T09:45:50Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/argotorg/solc-js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solc-js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solc-js/tree/master"
+  },
+  {
+   "name": "solang",
+   "slug": "solang",
+   "category": "languages-compilers",
+   "upstream": "https://github.com/hyperledger-solang/solang",
+   "fork": "https://github.com/Blockchains/solang",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1383,
+   "description": "Solidity Compiler for Solana, Polkadot and Stellar",
+   "upstream_pushed_at": "2026-09-30T22:48:09Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/hyperledger-solang/solang#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solang?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solang/tree/main"
+  },
+  {
+   "name": "sui",
+   "slug": "sui",
+   "category": "move",
+   "upstream": "https://github.com/MystenLabs/sui",
+   "fork": "https://github.com/Blockchains/sui",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 7763,
+   "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+   "upstream_pushed_at": "2026-10-03T14:34:33Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/MystenLabs/sui#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/sui?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sui/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/sui.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/sui/index.json",
+    "commit": "3ae8aecf7c175a83aa97da01d491e053a6090a8c",
+    "component_count": 556,
+    "tags": [
+     "ERC-20",
+     "ERC-2612",
+     "EVM",
+     "Foundry",
+     "Move",
+     "Move-package",
+     "Proxy/Upgradeable",
+     "Rust-crates",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "starcoin",
+   "slug": "starcoin",
+   "category": "move",
+   "upstream": "https://github.com/starcoinorg/starcoin",
+   "fork": "https://github.com/Blockchains/starcoin",
+   "fork_branch": "dual-verse-dag",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1152,
+   "description": "Starcoin - A Move smart contract blockchain network that scales by layering",
+   "upstream_pushed_at": "2026-08-24T12:01:33Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/starcoinorg/starcoin#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/starcoin?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/starcoin/tree/dual-verse-dag"
+  },
+  {
+   "name": "seaport",
+   "slug": "seaport",
+   "category": "nft",
+   "upstream": "https://github.com/ProjectOpenSea/seaport",
+   "fork": "https://github.com/Blockchains/seaport",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 2256,
+   "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+   "upstream_pushed_at": "2026-09-01T16:59:12Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ProjectOpenSea/seaport#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/seaport?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/seaport/tree/main"
+  },
+  {
+   "name": "chainlink",
+   "slug": "chainlink",
+   "category": "oracles",
+   "upstream": "https://github.com/smartcontractkit/chainlink",
+   "fork": "https://github.com/Blockchains/chainlink",
+   "fork_branch": "upstream-develop",
+   "license": "MIT (portions BUSL-1.1: CCIP, workflows; see LICENSE)",
+   "license_note": "MIT (portions BUSL-1.1: CCIP, workflows; see LICENSE)",
+   "stars": 8248,
+   "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+   "upstream_pushed_at": "2026-10-03T17:59:06Z",
+   "sync_mode": "tracking",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/chainlink-price-feed"
+   ],
+   "docs": [
+    "https://github.com/smartcontractkit/chainlink#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/chainlink?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chainlink/tree/upstream-develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/chainlink.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/chainlink/index.json",
+    "commit": "6a0ea40a466a7597fcd2fdfecfb81ab9f9bbfe58",
+    "component_count": 160,
+    "tags": [
+     "Cosmos",
+     "ERC-165",
+     "EVM",
+     "Go-module",
+     "Starknet",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "chainlink-evm",
+   "slug": "chainlink-evm",
+   "category": "oracles",
+   "upstream": "https://github.com/smartcontractkit/chainlink-evm",
+   "fork": "https://github.com/Blockchains/chainlink-evm",
+   "fork_branch": "develop",
+   "license": "MIT (portions other licences; see LICENSE)",
+   "license_note": "MIT (portions other licences; see LICENSE)",
+   "stars": 83,
+   "description": "",
+   "upstream_pushed_at": "2026-10-02T20:26:40Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/chainlink-price-feed"
+   ],
+   "docs": [
+    "https://github.com/smartcontractkit/chainlink-evm#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/chainlink-evm?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chainlink-evm/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/chainlink-evm.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/chainlink-evm/index.json",
+    "commit": "d1ee27b0b5875adb8eca1e0da05926f7eb1f6e1f",
+    "component_count": 432,
+    "tags": [
+     "Chainlink-Feeds",
+     "ERC-165",
+     "ERC-20",
+     "EVM",
+     "Foundry",
+     "Go-module",
+     "Hardhat",
+     "Proxy/Upgradeable",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "kubo",
+   "slug": "kubo",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ipfs/kubo",
+   "fork": "https://github.com/Blockchains/kubo",
+   "fork_branch": "master",
+   "license": "MIT OR Apache-2.0",
+   "license_note": "MIT OR Apache-2.0",
+   "stars": 17146,
+   "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+   "upstream_pushed_at": "2026-10-01T21:34:46Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ipfs/kubo#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/kubo?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/kubo/tree/master"
+  },
+  {
+   "name": "go-libp2p",
+   "slug": "go-libp2p",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/libp2p/go-libp2p",
+   "fork": "https://github.com/Blockchains/go-libp2p",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 6885,
+   "description": "libp2p implementation in Go",
+   "upstream_pushed_at": "2026-09-21T14:17:27Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/libp2p/go-libp2p#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/go-libp2p?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/go-libp2p/tree/master"
+  },
+  {
+   "name": "ipfs-desktop",
+   "slug": "ipfs-desktop",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ipfs/ipfs-desktop",
+   "fork": "https://github.com/Blockchains/ipfs-desktop",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 6591,
+   "description": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.",
+   "upstream_pushed_at": "2026-10-01T04:55:03Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ipfs/ipfs-desktop#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ipfs-desktop?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-desktop/tree/main"
+  },
+  {
+   "name": "rust-libp2p",
+   "slug": "rust-libp2p",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/libp2p/rust-libp2p",
+   "fork": "https://github.com/Blockchains/rust-libp2p",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 5616,
+   "description": "The Rust Implementation of the libp2p networking stack.",
+   "upstream_pushed_at": "2026-10-03T22:22:02Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/libp2p/rust-libp2p#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rust-libp2p?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-libp2p/tree/master"
+  },
+  {
+   "name": "lotus",
+   "slug": "lotus",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/filecoin-project/lotus",
+   "fork": "https://github.com/Blockchains/lotus",
+   "fork_branch": "master",
+   "license": "MIT OR Apache-2.0",
+   "license_note": "MIT OR Apache-2.0",
+   "stars": 2987,
+   "description": "Reference implementation of the Filecoin protocol, written in Go",
+   "upstream_pushed_at": "2026-10-02T15:15:42Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/filecoin-project/lotus#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/lotus?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lotus/tree/master"
+  },
+  {
+   "name": "js-libp2p",
+   "slug": "js-libp2p",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/libp2p/js-libp2p",
+   "fork": "https://github.com/Blockchains/js-libp2p",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2580,
+   "description": "A JavaScript Implementation of libp2p networking stack.",
+   "upstream_pushed_at": "2026-10-04T01:58:50Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/libp2p/js-libp2p#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/js-libp2p?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/js-libp2p/tree/main"
+  },
+  {
+   "name": "ipfs-companion",
+   "slug": "ipfs-companion",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ipfs/ipfs-companion",
+   "fork": "https://github.com/Blockchains/ipfs-companion",
+   "fork_branch": "main",
+   "license": "CC0-1.0",
+   "license_note": null,
+   "stars": 2162,
+   "description": "Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node",
+   "upstream_pushed_at": "2026-10-01T08:53:14Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ipfs/ipfs-companion#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ipfs-companion?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-companion/tree/main"
+  },
+  {
+   "name": "ipfs-webui",
+   "slug": "ipfs-webui",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ipfs/ipfs-webui",
+   "fork": "https://github.com/Blockchains/ipfs-webui",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1633,
+   "description": "A frontend for an IPFS Kubo and IPFS Desktop",
+   "upstream_pushed_at": "2026-10-04T16:24:15Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ipfs/ipfs-webui#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ipfs-webui?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-webui/tree/main"
+  },
+  {
+   "name": "bee",
+   "slug": "bee",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ethersphere/bee",
+   "fork": "https://github.com/Blockchains/bee",
+   "fork_branch": "master",
+   "license": "BSD-3-Clause",
+   "license_note": null,
+   "stars": 1483,
+   "description": "Bee is a Swarm client implemented in Go. It\u2019s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.",
+   "upstream_pushed_at": "2026-10-03T18:38:44Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ethersphere/bee#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bee?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bee/tree/master"
+  },
+  {
+   "name": "holochain",
+   "slug": "holochain",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/holochain/holochain",
+   "fork": "https://github.com/Blockchains/holochain",
+   "fork_branch": "develop",
+   "license": "CAL-1.0 (OSI-approved)",
+   "license_note": "CAL-1.0 (OSI-approved)",
+   "stars": 1395,
+   "description": "The current, performant & industrial strength version of Holochain on Rust.",
+   "upstream_pushed_at": "2026-10-02T13:27:07Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/holochain/holochain#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/holochain?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/holochain/tree/develop"
+  },
+  {
+   "name": "helia",
+   "slug": "helia",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/ipfs/helia",
+   "fork": "https://github.com/Blockchains/helia",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1352,
+   "description": "An implementation of IPFS in TypeScript",
+   "upstream_pushed_at": "2026-09-29T15:00:03Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ipfs/helia#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/helia?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/helia/tree/main"
+  },
+  {
+   "name": "btcpayserver",
+   "slug": "btcpayserver",
+   "category": "payments",
+   "upstream": "https://github.com/btcpayserver/btcpayserver",
+   "fork": "https://github.com/Blockchains/btcpayserver",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 7783,
+   "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+   "upstream_pushed_at": "2026-10-03T04:16:38Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/btcpayserver/btcpayserver#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/btcpayserver?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/btcpayserver/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/btcpayserver.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/btcpayserver/index.json",
+    "commit": "973fb804191cfcc08cfc2136fea202360075d2ee",
+    "component_count": 0,
+    "tags": []
+   }
+  },
+  {
+   "name": "polkadot-sdk",
+   "slug": "polkadot-sdk",
+   "category": "polkadot",
+   "upstream": "https://github.com/paritytech/polkadot-sdk",
+   "fork": "https://github.com/Blockchains/polkadot-sdk",
+   "fork_branch": "master",
+   "license": "Apache-2.0 / GPL-3.0-with-Classpath (per crate)",
+   "license_note": "Apache-2.0 / GPL-3.0-with-Classpath (per crate)",
+   "stars": 2811,
+   "description": "The Parity Polkadot Blockchain SDK",
+   "upstream_pushed_at": "2026-10-03T18:01:57Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/paritytech/polkadot-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/polkadot-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/polkadot-sdk/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/polkadot-sdk.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/polkadot-sdk/index.json",
+    "commit": "18311d6fa3f6649ba3e0622ad2928ed0789bfbb9",
+    "component_count": 404,
+    "tags": [
+     "ERC-20",
+     "ERC-2612",
+     "EVM",
+     "Rust-crates",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "apps",
+   "slug": "apps",
+   "category": "polkadot",
+   "upstream": "https://github.com/polkadot-js/apps",
+   "fork": "https://github.com/Blockchains/apps",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1822,
+   "description": "Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.",
+   "upstream_pushed_at": "2026-09-29T20:15:40Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/polkadot-js/apps#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/apps?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/apps/tree/master"
+  },
+  {
+   "name": "api",
+   "slug": "api",
+   "category": "polkadot",
+   "upstream": "https://github.com/polkadot-js/api",
+   "fork": "https://github.com/Blockchains/api",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1111,
+   "description": "Promise and RxJS APIs around Polkadot and Substrate based chains via RPC calls. It is dynamically generated based on what the Substrate runtime provides in terms of metadata.",
+   "upstream_pushed_at": "2026-10-01T17:19:41Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/polkadot-js/api#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/api?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/api/tree/master"
+  },
+  {
+   "name": "extension",
+   "slug": "extension-1",
+   "category": "polkadot",
+   "upstream": "https://github.com/polkadot-js/extension",
+   "fork": "https://github.com/Blockchains/extension-1",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1019,
+   "description": "Simple browser extension for managing Polkadot and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extensions for dapps.",
+   "upstream_pushed_at": "2026-09-23T18:44:52Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/polkadot-js/extension#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/extension-1?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/extension-1/tree/master"
+  },
+  {
+   "name": "DeFiHackLabs",
+   "slug": "defihacklabs",
+   "category": "security",
+   "upstream": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+   "fork": "https://github.com/Blockchains/DeFiHackLabs",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 6803,
+   "description": "Reproduce DeFi hacked incidents using Foundry.",
+   "upstream_pushed_at": "2026-10-03T03:01:52Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/SunWeb3Sec/DeFiHackLabs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/DeFiHackLabs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/DeFiHackLabs/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/defihacklabs.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/defihacklabs/index.json",
+    "commit": "2ee728d4e1fe3f860593897a82a9b9595a2cba76",
+    "component_count": 1,
+    "tags": [
+     "Chainlink-Feeds",
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-4337",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Proxy/Upgradeable"
+    ]
+   }
+  },
+  {
+   "name": "slither",
+   "slug": "slither",
+   "category": "security",
+   "upstream": "https://github.com/crytic/slither",
+   "fork": "https://github.com/Blockchains/slither",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": "AGPL-3.0",
+   "stars": 6375,
+   "description": "Static Analyzer for Solidity and Vyper",
+   "upstream_pushed_at": "2026-09-23T22:54:56Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/crytic/slither#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/slither?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/slither/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/slither.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/slither/index.json",
+    "commit": "eef5df948b8992eff85786b6b0bb4a193933e2c9",
+    "component_count": 7,
+    "tags": [
+     "Chainlink-Feeds",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "Proxy/Upgradeable"
+    ]
+   }
+  },
+  {
+   "name": "echidna",
+   "slug": "echidna",
+   "category": "security",
+   "upstream": "https://github.com/crytic/echidna",
+   "fork": "https://github.com/Blockchains/echidna",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": "AGPL-3.0",
+   "stars": 3185,
+   "description": "Ethereum smart contract fuzzer",
+   "upstream_pushed_at": "2026-09-30T21:34:38Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/crytic/echidna#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/echidna?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/echidna/tree/master"
+  },
+  {
+   "name": "ethernaut",
+   "slug": "ethernaut",
+   "category": "security",
+   "upstream": "https://github.com/OpenZeppelin/ethernaut",
+   "fork": "https://github.com/Blockchains/ethernaut",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 2337,
+   "description": "Web3/Solidity based wargame",
+   "upstream_pushed_at": "2026-10-02T18:00:30Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OpenZeppelin/ethernaut#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ethernaut?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ethernaut/tree/master"
+  },
+  {
+   "name": "reentrancy-attacks",
+   "slug": "reentrancy-attacks",
+   "category": "security",
+   "upstream": "https://github.com/pcaversaccio/reentrancy-attacks",
+   "fork": "https://github.com/Blockchains/reentrancy-attacks",
+   "fork_branch": "main",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 1629,
+   "description": "A chronological and (hopefully) complete list of reentrancy attacks to date.",
+   "upstream_pushed_at": "2026-07-20T10:51:41Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/pcaversaccio/reentrancy-attacks#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/reentrancy-attacks?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/reentrancy-attacks/tree/main"
+  },
+  {
+   "name": "heimdall-rs",
+   "slug": "heimdall-rs",
+   "category": "security",
+   "upstream": "https://github.com/Jon-Becker/heimdall-rs",
+   "fork": "https://github.com/Blockchains/heimdall-rs",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1619,
+   "description": "Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.",
+   "upstream_pushed_at": "2026-10-04T01:01:26Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Jon-Becker/heimdall-rs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/heimdall-rs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/heimdall-rs/tree/main"
+  },
+  {
+   "name": "solhint",
+   "slug": "solhint",
+   "category": "security",
+   "upstream": "https://github.com/protofire/solhint",
+   "fork": "https://github.com/Blockchains/solhint",
+   "fork_branch": "develop",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1127,
+   "description": "Solhint is an open-source project to provide a linting utility for Solidity code.",
+   "upstream_pushed_at": "2026-10-02T13:09:11Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/protofire/solhint#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solhint?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solhint/tree/develop"
+  },
+  {
+   "name": "openzeppelin-contracts",
+   "slug": "openzeppelin-contracts",
+   "category": "smart-contract-libraries",
+   "upstream": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+   "fork": "https://github.com/Blockchains/openzeppelin-contracts",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 27265,
+   "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+   "upstream_pushed_at": "2026-10-01T13:14:16Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/foundry-oz-tokens"
+   ],
+   "docs": [
+    "https://github.com/OpenZeppelin/openzeppelin-contracts#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/openzeppelin-contracts?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/openzeppelin-contracts/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/openzeppelin-contracts.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/openzeppelin-contracts/index.json",
+    "commit": "40a51f7e78852e48d0b128d4ee3d620cbc7d35d8",
+    "component_count": 268,
+    "tags": [
+     "EIP-712",
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-4337",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "Proxy/Upgradeable",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "solady",
+   "slug": "solady",
+   "category": "smart-contract-libraries",
+   "upstream": "https://github.com/Vectorized/solady",
+   "fork": "https://github.com/Blockchains/solady",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3379,
+   "description": "Optimized Solidity snippets.",
+   "upstream_pushed_at": "2026-09-02T10:47:33Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Vectorized/solady#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solady?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solady/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/solady.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/solady/index.json",
+    "commit": "2afba69bf67b78dd4abeadcc696052b3a6f71499",
+    "component_count": 149,
+    "tags": [
+     "EIP-712",
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-4337",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Proxy/Upgradeable",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "safe-smart-account",
+   "slug": "safe-smart-account",
+   "category": "smart-contract-libraries",
+   "upstream": "https://github.com/safe-fndn/safe-smart-account",
+   "fork": "https://github.com/Blockchains/safe-smart-account",
+   "fork_branch": "main",
+   "license": "LGPL-3.0",
+   "license_note": "LGPL-3.0",
+   "stars": 2182,
+   "description": "Safe allows secure management of blockchain assets.",
+   "upstream_pushed_at": "2026-09-24T04:50:13Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/safe-fndn/safe-smart-account#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/safe-smart-account?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/safe-smart-account/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/safe-smart-account.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/safe-smart-account/index.json",
+    "commit": "f8fc2f2e75b650d63276aaa12cd3a455a5f5a990",
+    "component_count": 66,
+    "tags": [
+     "EIP-712",
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-4337",
+     "ERC-721",
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "openzeppelin-contracts-upgradeable",
+   "slug": "openzeppelin-contracts-upgradeable",
+   "category": "smart-contract-libraries",
+   "upstream": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable",
+   "fork": "https://github.com/Blockchains/openzeppelin-contracts-upgradeable",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1176,
+   "description": "Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.",
+   "upstream_pushed_at": "2026-10-01T13:15:08Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/openzeppelin-contracts-upgradeable?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/openzeppelin-contracts-upgradeable/tree/master"
+  },
+  {
+   "name": "prb-math",
+   "slug": "prb-math",
+   "category": "smart-contract-libraries",
+   "upstream": "https://github.com/PaulRBerg/prb-math",
+   "fork": "https://github.com/Blockchains/prb-math",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1008,
+   "description": "Solidity library for advanced fixed-point math",
+   "upstream_pushed_at": "2026-09-21T12:32:15Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/PaulRBerg/prb-math#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/prb-math?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/prb-math/tree/main"
+  },
+  {
+   "name": "anchor",
+   "slug": "anchor",
+   "category": "solana",
+   "upstream": "https://github.com/otter-sec/anchor",
+   "fork": "https://github.com/Blockchains/anchor",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 5141,
+   "description": "\u2693 Solana Program Framework",
+   "upstream_pushed_at": "2026-10-02T18:00:18Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/otter-sec/anchor#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/anchor?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/anchor/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/anchor.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/anchor/index.json",
+    "commit": "541295db1958e7809cbb56e08615d2fb9bb7cea1",
+    "component_count": 54,
+    "tags": [
+     "Anchor",
+     "EVM",
+     "Rust-crates",
+     "SVM",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "solana-web3.js",
+   "slug": "solana-web3.js",
+   "category": "solana",
+   "upstream": "https://github.com/solana-foundation/solana-web3.js",
+   "fork": "https://github.com/Blockchains/solana-web3.js",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2765,
+   "description": "Solana JavaScript SDK",
+   "upstream_pushed_at": "2026-10-02T03:13:36Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/solana-foundation/solana-web3.js#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solana-web3.js?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-web3.js/tree/main"
+  },
+  {
+   "name": "wallet-adapter",
+   "slug": "wallet-adapter",
+   "category": "solana",
+   "upstream": "https://github.com/anza-xyz/wallet-adapter",
+   "fork": "https://github.com/Blockchains/wallet-adapter",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2030,
+   "description": "Modular TypeScript wallet adapters and components for Solana applications.",
+   "upstream_pushed_at": "2026-09-10T09:04:33Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/anza-xyz/wallet-adapter#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/wallet-adapter?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wallet-adapter/tree/master"
+  },
+  {
+   "name": "pay",
+   "slug": "pay",
+   "category": "solana",
+   "upstream": "https://github.com/solana-foundation/pay",
+   "fork": "https://github.com/Blockchains/pay",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1785,
+   "description": "CLI for Agentic payments (x402, MPP, AP2).",
+   "upstream_pushed_at": "2026-10-04T05:06:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/solana-foundation/pay#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/pay?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/pay/tree/main"
+  },
+  {
+   "name": "solana-go",
+   "slug": "solana-go",
+   "category": "solana",
+   "upstream": "https://github.com/solana-foundation/solana-go",
+   "fork": "https://github.com/Blockchains/solana-go",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1591,
+   "description": "Go SDK library and RPC client for the Solana Blockchain",
+   "upstream_pushed_at": "2026-09-25T22:02:52Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/solana-foundation/solana-go#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solana-go?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-go/tree/main"
+  },
+  {
+   "name": "firedancer",
+   "slug": "firedancer",
+   "category": "solana",
+   "upstream": "https://github.com/firedancer-io/firedancer",
+   "fork": "https://github.com/Blockchains/firedancer",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 1525,
+   "description": "Firedancer is Jump Crypto's Solana validator software.",
+   "upstream_pushed_at": "2026-10-04T15:31:58Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/firedancer-io/firedancer#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/firedancer?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/firedancer/tree/main"
+  },
+  {
+   "name": "solana-py",
+   "slug": "solana-py",
+   "category": "solana",
+   "upstream": "https://github.com/michaelhly/solana-py",
+   "fork": "https://github.com/Blockchains/solana-py",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1446,
+   "description": "Solana Python SDK",
+   "upstream_pushed_at": "2026-10-03T14:05:48Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/michaelhly/solana-py#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/solana-py?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-py/tree/master"
+  },
+  {
+   "name": "program-examples",
+   "slug": "program-examples",
+   "category": "solana",
+   "upstream": "https://github.com/solana-foundation/program-examples",
+   "fork": "https://github.com/Blockchains/program-examples",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1427,
+   "description": "A repository of Solana program examples",
+   "upstream_pushed_at": "2026-09-28T18:48:21Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/solana-foundation/program-examples#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/program-examples?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/program-examples/tree/main"
+  },
+  {
+   "name": "yellowstone-grpc",
+   "slug": "yellowstone-grpc",
+   "category": "solana",
+   "upstream": "https://github.com/rpcpool/yellowstone-grpc",
+   "fork": "https://github.com/Blockchains/yellowstone-grpc",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 1008,
+   "description": "Triton's Dragon's Mouth Yellowstone gRPC service for high-performance Solana streaming",
+   "upstream_pushed_at": "2026-10-03T14:39:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/rpcpool/yellowstone-grpc#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/yellowstone-grpc?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/yellowstone-grpc/tree/master"
+  },
+  {
+   "name": "electrum",
+   "slug": "electrum",
+   "category": "wallets",
+   "upstream": "https://github.com/spesmilo/electrum",
+   "fork": "https://github.com/Blockchains/electrum",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 8609,
+   "description": "Electrum Bitcoin Wallet",
+   "upstream_pushed_at": "2026-10-01T11:37:54Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/spesmilo/electrum#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/electrum?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/electrum/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/electrum.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/electrum/index.json",
+    "commit": "4cb03ef4f1f2baaf66519342b933ee731333b1fd",
+    "component_count": 0,
+    "tags": []
+   }
+  },
+  {
+   "name": "rainbow",
+   "slug": "rainbow",
+   "category": "wallets",
+   "upstream": "https://github.com/rainbow-me/rainbow",
+   "fork": "https://github.com/Blockchains/rainbow",
+   "fork_branch": "develop",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 4396,
+   "description": "\ud83c\udf08\u2012 the Ethereum wallet that lives in your pocket",
+   "upstream_pushed_at": "2026-10-03T17:52:38Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/rainbow-me/rainbow#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rainbow?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rainbow/tree/develop",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/rainbow.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/rainbow/index.json",
+    "commit": "9d718934e9f008cd3a5277bcfa69df153a542969",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "wallet",
+   "slug": "wallet",
+   "category": "wallets",
+   "upstream": "https://github.com/bitpay/wallet",
+   "fork": "https://github.com/Blockchains/wallet",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3942,
+   "description": "Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.",
+   "upstream_pushed_at": "2026-09-01T10:53:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitpay/wallet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/wallet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wallet/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/wallet.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/wallet/index.json",
+    "commit": "ff2e9d05b8157e2931824a20daa6d61c9425d02d",
+    "component_count": 1,
+    "tags": [
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "wallet-core",
+   "slug": "wallet-core",
+   "category": "wallets",
+   "upstream": "https://github.com/trustwallet/wallet-core",
+   "fork": "https://github.com/Blockchains/wallet-core",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 3571,
+   "description": "Cross-platform, cross-blockchain wallet library.",
+   "upstream_pushed_at": "2026-10-01T16:58:39Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/trustwallet/wallet-core#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/wallet-core?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wallet-core/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/wallet-core.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/wallet-core/index.json",
+    "commit": "d40d24a63d92619167903369308bf0e2f7eb3a59",
+    "component_count": 118,
+    "tags": [
+     "Bitcoin",
+     "Go-module",
+     "Rust-crates",
+     "Starknet",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "BlueWallet",
+   "slug": "bluewallet",
+   "category": "wallets",
+   "upstream": "https://github.com/BlueWallet/BlueWallet",
+   "fork": "https://github.com/Blockchains/BlueWallet",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 3309,
+   "description": "Bitcoin wallet for iOS & Android. Built with React Native",
+   "upstream_pushed_at": "2026-10-03T18:05:56Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/BlueWallet/BlueWallet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/BlueWallet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/BlueWallet/tree/master"
+  },
+  {
+   "name": "extension",
+   "slug": "extension",
+   "category": "wallets",
+   "upstream": "https://github.com/tahowallet/extension",
+   "fork": "https://github.com/Blockchains/extension",
+   "fork_branch": "main",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 3204,
+   "description": "Taho, the community owned and operated Web3 wallet.",
+   "upstream_pushed_at": "2026-08-24T14:56:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/tahowallet/extension#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/extension?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/extension/tree/main"
+  },
+  {
+   "name": "rainbowkit",
+   "slug": "rainbowkit",
+   "category": "wallets",
+   "upstream": "https://github.com/rainbow-me/rainbowkit",
+   "fork": "https://github.com/Blockchains/rainbowkit",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2835,
+   "description": "The best way to connect a wallet \ud83c\udf08 \ud83e\uddf0",
+   "upstream_pushed_at": "2026-10-01T05:19:06Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/wagmi-rainbowkit-dapp"
+   ],
+   "docs": [
+    "https://github.com/rainbow-me/rainbowkit#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/rainbowkit?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rainbowkit/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/rainbowkit.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/rainbowkit/index.json",
+    "commit": "03360ee924cfa6af13ff1d623b356bf5a170348e",
+    "component_count": 4,
+    "tags": [
+     "EIP-712",
+     "ERC-1155",
+     "ERC-165",
+     "ERC-20",
+     "ERC-2612",
+     "ERC-4337",
+     "ERC-4626",
+     "ERC-721",
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "Proxy/Upgradeable",
+     "Substrate",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "WalletWasabi",
+   "slug": "walletwasabi",
+   "category": "wallets",
+   "upstream": "https://github.com/WalletWasabi/WalletWasabi",
+   "fork": "https://github.com/Blockchains/WalletWasabi",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 2618,
+   "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",
+   "upstream_pushed_at": "2026-10-03T18:52:34Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/WalletWasabi/WalletWasabi#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/WalletWasabi?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/WalletWasabi/tree/master"
+  },
+  {
+   "name": "sparrow",
+   "slug": "sparrow",
+   "category": "wallets",
+   "upstream": "https://github.com/sparrowwallet/sparrow",
+   "fork": "https://github.com/Blockchains/sparrow",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2154,
+   "description": "Desktop Bitcoin Wallet focused on security and privacy. Free and open source.",
+   "upstream_pushed_at": "2026-10-02T11:57:47Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/sparrowwallet/sparrow#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/sparrow?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sparrow/tree/master"
+  },
+  {
+   "name": "cake_wallet",
+   "slug": "cake_wallet",
+   "category": "wallets",
+   "upstream": "https://github.com/cake-tech/cake_wallet",
+   "fork": "https://github.com/Blockchains/cake_wallet",
+   "fork_branch": "dev",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1950,
+   "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
+   "upstream_pushed_at": "2026-10-04T14:46:02Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/cake-tech/cake_wallet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cake_wallet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cake_wallet/tree/dev"
+  },
+  {
+   "name": "coinbase-wallet-sdk",
+   "slug": "coinbase-wallet-sdk",
+   "category": "wallets",
+   "upstream": "https://github.com/coinbase/coinbase-wallet-sdk",
+   "fork": "https://github.com/Blockchains/coinbase-wallet-sdk",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1764,
+   "description": "An open protocol that lets users connect their mobile wallets to your DApp",
+   "upstream_pushed_at": "2026-09-28T21:44:02Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/coinbase/coinbase-wallet-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/coinbase-wallet-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/coinbase-wallet-sdk/tree/master"
+  },
+  {
+   "name": "MyEtherWallet",
+   "slug": "myetherwallet",
+   "category": "wallets",
+   "upstream": "https://github.com/MyEtherWallet/MyEtherWallet",
+   "fork": "https://github.com/Blockchains/MyEtherWallet",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1588,
+   "description": "MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.",
+   "upstream_pushed_at": "2026-10-03T08:10:12Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/MyEtherWallet/MyEtherWallet#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/MyEtherWallet?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/MyEtherWallet/tree/main"
+  },
+  {
+   "name": "daedalus",
+   "slug": "daedalus",
+   "category": "wallets",
+   "upstream": "https://github.com/input-output-hk/daedalus",
+   "fork": "https://github.com/Blockchains/daedalus",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1247,
+   "description": "The open source cryptocurrency wallet for ada, built to grow with the community",
+   "upstream_pushed_at": "2026-10-04T00:28:16Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/input-output-hk/daedalus#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/daedalus?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/daedalus/tree/master"
+  },
+  {
+   "name": "bip39",
+   "slug": "bip39",
+   "category": "wallets",
+   "upstream": "https://github.com/bitcoinjs/bip39",
+   "fork": "https://github.com/Blockchains/bip39",
+   "fork_branch": "master",
+   "license": "ISC",
+   "license_note": null,
+   "stars": 1182,
+   "description": "JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys",
+   "upstream_pushed_at": "2026-09-16T15:56:22Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/bitcoinjs/bip39#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/bip39?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bip39/tree/master"
+  },
+  {
+   "name": "ant-design-web3",
+   "slug": "ant-design-web3",
+   "category": "wallets",
+   "upstream": "https://github.com/ant-design/ant-design-web3",
+   "fork": "https://github.com/Blockchains/ant-design-web3",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": null,
+   "stars": 1147,
+   "description": "\ud83e\udd73 Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui, TRON and others.",
+   "upstream_pushed_at": "2026-07-22T06:21:32Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ant-design/ant-design-web3#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ant-design-web3?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ant-design-web3/tree/main"
+  },
+  {
+   "name": "connectkit",
+   "slug": "connectkit",
+   "category": "wallets",
+   "upstream": "https://github.com/family/connectkit",
+   "fork": "https://github.com/Blockchains/connectkit",
+   "fork_branch": "main",
+   "license": "BSD-2-Clause",
+   "license_note": null,
+   "stars": 1070,
+   "description": "Connecting a wallet, made simple.",
+   "upstream_pushed_at": "2026-08-13T22:59:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/family/connectkit#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/connectkit?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/connectkit/tree/main"
+  },
+  {
+   "name": "union",
+   "slug": "union",
+   "category": "zk",
+   "upstream": "https://github.com/unionlabs/union",
+   "fork": "https://github.com/Blockchains/union",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 73779,
+   "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+   "upstream_pushed_at": "2026-07-25T18:20:02Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/unionlabs/union#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/union?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/union/tree/main"
+  },
+  {
+   "name": "leo",
+   "slug": "leo",
+   "category": "zk",
+   "upstream": "https://github.com/ProvableHQ/leo",
+   "fork": "https://github.com/Blockchains/leo",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 4822,
+   "description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+   "upstream_pushed_at": "2026-10-02T18:27:25Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ProvableHQ/leo#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/leo?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/leo/tree/master"
+  },
+  {
+   "name": "snarkOS",
+   "slug": "snarkos",
+   "category": "zk",
+   "upstream": "https://github.com/ProvableHQ/snarkOS",
+   "fork": "https://github.com/Blockchains/snarkOS",
+   "fork_branch": "staging",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 4528,
+   "description": "A Decentralized Operating System for ZK Applications",
+   "upstream_pushed_at": "2026-10-03T10:46:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ProvableHQ/snarkOS#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/snarkOS?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/snarkOS/tree/staging",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/snarkos.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/snarkos/index.json",
+    "commit": "18aba8c62c0adc2e820e7cb173578c9a593c75cc",
+    "component_count": 21,
+    "tags": [
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "risc0",
+   "slug": "risc0",
+   "category": "zk",
+   "upstream": "https://github.com/risc0/risc0",
+   "fork": "https://github.com/Blockchains/risc0",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 2196,
+   "description": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+   "upstream_pushed_at": "2026-08-28T05:30:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/risc0/risc0#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/risc0?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/risc0/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/risc0.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/risc0/index.json",
+    "commit": "3bbcd44d6459b9ef6ac0df3846dc9215514934e8",
+    "component_count": 74,
+    "tags": [
+     "EVM",
+     "Go-module",
+     "Rust-crates",
+     "Substrate",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "mina",
+   "slug": "mina",
+   "category": "zk",
+   "upstream": "https://github.com/MinaProtocol/mina",
+   "fork": "https://github.com/Blockchains/mina",
+   "fork_branch": "compatible",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 2123,
+   "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+   "upstream_pushed_at": "2026-10-04T13:46:45Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/MinaProtocol/mina#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/mina?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/mina/tree/compatible"
+  },
+  {
+   "name": "snarkjs",
+   "slug": "snarkjs",
+   "category": "zk",
+   "upstream": "https://github.com/iden3/snarkjs",
+   "fork": "https://github.com/Blockchains/snarkjs",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 2041,
+   "description": "zkSNARK implementation in JavaScript & WASM",
+   "upstream_pushed_at": "2026-10-01T19:42:37Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/circom-zk-proof"
+   ],
+   "docs": [
+    "https://github.com/iden3/snarkjs#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/snarkjs?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/snarkjs/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/snarkjs.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/snarkjs/index.json",
+    "commit": "22003fbcde78608be902520661832db7933d279e",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "Hardhat",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "sp1",
+   "slug": "sp1",
+   "category": "zk",
+   "upstream": "https://github.com/succinctlabs/sp1",
+   "fork": "https://github.com/Blockchains/sp1",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 1739,
+   "description": "SP1 is a zero\u2011knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.",
+   "upstream_pushed_at": "2026-10-03T08:11:28Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/succinctlabs/sp1#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/sp1?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sp1/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/sp1.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/sp1/index.json",
+    "commit": "edc07b68c92c17e4fc8658c39a2ef8d9ea5d95dc",
+    "component_count": 159,
+    "tags": [
+     "EVM",
+     "Go-module",
+     "Rust-crates",
+     "Substrate",
+     "ZK"
+    ]
+   }
+  },
+  {
+   "name": "gnark",
+   "slug": "gnark",
+   "category": "zk",
+   "upstream": "https://github.com/Consensys-Incorporated/gnark",
+   "fork": "https://github.com/Blockchains/gnark",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1738,
+   "description": "gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license",
+   "upstream_pushed_at": "2026-10-03T17:49:03Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Consensys-Incorporated/gnark#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/gnark?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/gnark/tree/master"
+  },
+  {
+   "name": "circom",
+   "slug": "circom",
+   "category": "zk",
+   "upstream": "https://github.com/iden3/circom",
+   "fork": "https://github.com/Blockchains/circom",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 1696,
+   "description": "zkSnark circuit compiler",
+   "upstream_pushed_at": "2026-10-02T13:33:48Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/circom-zk-proof"
+   ],
+   "docs": [
+    "https://github.com/iden3/circom#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/circom?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/circom/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/circom.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/circom/index.json",
+    "commit": "a100faedb1c62d4d3e1463f8a3f88342d82351cd",
+    "component_count": 12,
+    "tags": [
+     "Rust-crates"
+    ]
+   }
+  },
+  {
+   "name": "noir",
+   "slug": "noir",
+   "category": "zk",
+   "upstream": "https://github.com/noir-lang/noir",
+   "fork": "https://github.com/Blockchains/noir",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 OR MIT",
+   "stars": 1405,
+   "description": "Noir is a domain specific language for zero knowledge proofs",
+   "upstream_pushed_at": "2026-10-03T02:21:14Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/noir-zk-proof"
+   ],
+   "docs": [
+    "https://github.com/noir-lang/noir#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/noir?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/noir/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/noir.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/noir/index.json",
+    "commit": "3049e7e4878fadda7a5e2b0690231c7846e67bf3",
+    "component_count": 529,
+    "tags": [
+     "EVM",
+     "Foundry",
+     "Hardhat",
+     "Noir",
+     "Rust-crates",
+     "ZK",
+     "npm"
+    ]
+   }
+  },
+  {
+   "name": "darkfi",
+   "slug": "darkfi",
+   "category": "zk",
+   "upstream": "https://github.com/darkrenaissance/darkfi",
+   "fork": "https://github.com/Blockchains/darkfi",
+   "fork_branch": "master",
+   "license": "AGPL-3.0",
+   "license_note": null,
+   "stars": 1373,
+   "description": "Anonymous. Uncensored. Sovereign.",
+   "upstream_pushed_at": "2026-10-03T11:16:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/darkrenaissance/darkfi#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/darkfi?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/darkfi/tree/master"
+  },
+  {
+   "name": "cairo-lang",
+   "slug": "cairo-lang",
+   "category": "zk",
+   "upstream": "https://github.com/starkware-libs/cairo-lang",
+   "fork": "https://github.com/Blockchains/cairo-lang",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1368,
+   "description": "",
+   "upstream_pushed_at": "2026-07-28T13:21:55Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/starkware-libs/cairo-lang#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/cairo-lang?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo-lang/tree/master"
+  },
+  {
+   "name": "snarkVM",
+   "slug": "snarkvm",
+   "category": "zk",
+   "upstream": "https://github.com/ProvableHQ/snarkVM",
+   "fork": "https://github.com/Blockchains/snarkVM",
+   "fork_branch": "staging",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1165,
+   "description": "A zkVM for Decentralized Private Computations (DPC)",
+   "upstream_pushed_at": "2026-10-02T22:53:29Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/ProvableHQ/snarkVM#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/snarkVM?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/snarkVM/tree/staging"
+  },
+  {
+   "name": "jolt",
+   "slug": "jolt",
+   "category": "zk",
+   "upstream": "https://github.com/a16z/jolt",
+   "fork": "https://github.com/Blockchains/jolt",
+   "fork_branch": "main",
+   "license": "Apache-2.0",
+   "license_note": null,
+   "stars": 1047,
+   "description": "The simplest and most extensible zkVM. Fast and fully open source from a16z crypto and friends. \u26a1",
+   "upstream_pushed_at": "2026-10-03T01:28:37Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/a16z/jolt#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/jolt?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/jolt/tree/main"
+  },
+  {
+   "name": "circomlib",
+   "slug": "circomlib",
+   "category": "zk",
+   "upstream": "https://github.com/iden3/circomlib",
+   "fork": "https://github.com/Blockchains/circomlib",
+   "fork_branch": "master",
+   "license": "LGPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 750,
+   "description": "Library of basic circuits for circom",
+   "upstream_pushed_at": "2026-09-29T20:08:33Z",
+   "sync_mode": "merge",
+   "starters": [
+    "https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/circom-zk-proof"
+   ],
+   "docs": [
+    "https://github.com/iden3/circomlib#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/circomlib?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/circomlib/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/circomlib.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/circomlib/index.json",
+    "commit": "35e54ea21da3e8762557234298dbb553c175ea8d",
+    "component_count": 109,
+    "tags": [
+     "ZK",
+     "npm"
+    ]
+   }
+  }
+ ]
+}
