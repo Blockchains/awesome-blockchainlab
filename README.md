@@ -2,7 +2,7 @@
 
 [![Validate](https://github.com/Blockchains/awesome-blockchainlab/actions/workflows/validate.yml/badge.svg)](https://github.com/Blockchains/awesome-blockchainlab/actions/workflows/validate.yml)
 
-A curated set of **225 open-source blockchain projects**, forked under [Blockchains](https://github.com/Blockchains), kept in sync with upstream by [fork-sync](https://github.com/Blockchains/fork-sync), and indexed down to individual contracts, circuits and packages in [blockchainlab-index](https://github.com/Blockchains/blockchainlab-index). The [Blockchain Lab forge](https://blockchainlab.com/forge) composes new projects from these components.
+A curated set of **225 open-source blockchain projects** (plus 11 in an [Extended](#extended) tier), forked under [Blockchains](https://github.com/Blockchains), kept in sync with upstream by [fork-sync](https://github.com/Blockchains/fork-sync), and indexed down to individual contracts, circuits and packages in [blockchainlab-index](https://github.com/Blockchains/blockchainlab-index). The [Blockchain Lab forge](https://blockchainlab.com/forge) composes new projects from these components.
 
 **What gets in:** an OSI-approved licence, at least 1,000 stars (a few smaller ecosystem-critical libraries are included on purpose), active in the last 90 days, not archived. Mixed-licence repos are flagged in the licence column, e.g. Uniswap v4-core (BUSL-1.1 core, MIT interfaces) and parts of Chainlink. The forge never copies source-available files into composed projects.
 
@@ -47,6 +47,7 @@ A curated set of **225 open-source blockchain projects**, forked under [Blockcha
 - [Solana](#solana) (9)
 - [Wallets](#wallets) (16)
 - [Zero knowledge](#zero-knowledge) (15)
+- [Extended](#extended) (11)
 
 ## AI agents & payments
 
@@ -422,6 +423,23 @@ A curated set of **225 open-source blockchain projects**, forked under [Blockcha
 | [snarkVM](https://github.com/ProvableHQ/snarkVM) | A zkVM for Decentralized Private Computations (DPC) | Apache-2.0 | 1165 | [Blockchains/snarkVM](https://github.com/Blockchains/snarkVM/tree/staging) | [Codespaces](https://codespaces.new/Blockchains/snarkVM?quickstart=1) |
 | [jolt](https://github.com/a16z/jolt) | The simplest and most extensible zkVM. Fast and fully open source from a16z crypto and friends. ⚡ | Apache-2.0 | 1047 | [Blockchains/jolt](https://github.com/Blockchains/jolt/tree/main) | [Codespaces](https://codespaces.new/Blockchains/jolt?quickstart=1) |
 | [circomlib](https://github.com/iden3/circomlib) | Library of basic circuits for circom | LGPL-3.0 | 750 | [Blockchains/circomlib](https://github.com/Blockchains/circomlib/tree/master) | [Codespaces](https://codespaces.new/Blockchains/circomlib?quickstart=1) · [Starter](https://github.com/Blockchains/blockchainlab-starters/tree/main/starters/circom-zk-proof) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/circomlib.json) (109) |
+
+## Extended
+Further Blockchains forks that are indexed in [blockchainlab-index](https://github.com/Blockchains/blockchainlab-index) (`tier: extended`) but sit outside the curated criteria above, usually because they have fewer than 1,000 stars or were last active more than 90 days ago. **What gets in:** blockchain or crypto upstream, an OSI-approved licence, upstream pushed within the last 365 days, not archived.
+
+| Project | What | Licence | ★ | Fork | Use |
+|---|---|---|---|---|---|
+| [zksync](https://github.com/matter-labs/zksync) | zkSync: trustless scaling and privacy engine for Ethereum | Apache-2.0 | 4923 | [Blockchains/zksync](https://github.com/Blockchains/zksync/tree/master) | [Codespaces](https://codespaces.new/Blockchains/zksync?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/zksync.json) (114) |
+| [marketplace](https://github.com/decentraland/marketplace) | 🏛️ Decentraland's NFT Marketplace | Apache-2.0 | 1199 | [Blockchains/marketplace](https://github.com/Blockchains/marketplace/tree/master) | [Codespaces](https://codespaces.new/Blockchains/marketplace?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/marketplace.json) (4) |
+| [awesome-nft](https://github.com/gianni-dalerta/awesome-nft) | A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software | MIT | 971 | [Blockchains/awesome-nft](https://github.com/Blockchains/awesome-nft/tree/master) | [Codespaces](https://codespaces.new/Blockchains/awesome-nft?quickstart=1) |
+| [defi-sdk](https://github.com/zeriontech/defi-sdk) | DeFi SDK Makes Money Lego Work | LGPL-3.0 | 844 | [Blockchains/defi-sdk](https://github.com/Blockchains/defi-sdk/tree/upstream-router) | [Codespaces](https://codespaces.new/Blockchains/defi-sdk?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/defi-sdk.json) (25) |
+| [ampleforth-contracts](https://github.com/fragmentsorg/ampleforth-contracts) | Smart contracts for Ampleforth Protocol (working name uFragments) | GPL-3.0 | 280 | [Blockchains/uFragments](https://github.com/Blockchains/uFragments/tree/master) | [Codespaces](https://codespaces.new/Blockchains/uFragments?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/ufragments.json) (21) |
+| [ui](https://github.com/decentraland/ui) | 🦄 Decentraland UI | Apache-2.0 | 212 | [Blockchains/ui](https://github.com/Blockchains/ui/tree/master) | [Codespaces](https://codespaces.new/Blockchains/ui?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/ui.json) (1) |
+| [builder](https://github.com/decentraland/builder) | 🍉 Build scenes for Decentraland | Apache-2.0 | 157 | [Blockchains/builder](https://github.com/Blockchains/builder/tree/master) | [Codespaces](https://codespaces.new/Blockchains/builder?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/builder.json) (2) |
+| [decentraland-dapps](https://github.com/decentraland/decentraland-dapps) | 🛠 Common modules for dApps | Apache-2.0 | 115 | [Blockchains/decentraland-dapps](https://github.com/Blockchains/decentraland-dapps/tree/master) | [Codespaces](https://codespaces.new/Blockchains/decentraland-dapps?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/decentraland-dapps.json) (1) |
+| [catalyst](https://github.com/decentraland/catalyst) | 🐧 Content server for Decentraland | Apache-2.0 | 52 | [Blockchains/catalyst](https://github.com/Blockchains/catalyst/tree/upstream-main) | [Codespaces](https://codespaces.new/Blockchains/catalyst?quickstart=1) |
+| [synthetix-assets](https://github.com/Synthetixio/synthetix-assets) | Synthetix Assets | MIT | 10 | [Blockchains/synthetix-assets](https://github.com/Blockchains/synthetix-assets/tree/master) | [Codespaces](https://codespaces.new/Blockchains/synthetix-assets?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/synthetix-assets.json) (1) |
+| [Soulbyte](https://github.com/web3devz/Soulbyte) | Autonomous AI Life Simulation | MIT | 2 | [Blockchains/Soulbyte](https://github.com/Blockchains/Soulbyte/tree/main) | [Codespaces](https://codespaces.new/Blockchains/Soulbyte?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/soulbyte.json) (2) |
 
 ## Contributing
 Open an issue with the upstream URL. Inclusion is checked against the criteria above. `forge.json` is regenerated from the fork state, and the `Validate` workflow checks it on every push.

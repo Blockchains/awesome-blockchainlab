@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-04T16:37:31Z",
+ "generated_at": "2026-10-04T17:24:10Z",
  "owner": "Blockchains",
- "count": 225,
+ "count": 236,
  "index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/catalog.json",
  "starters": "https://github.com/Blockchains/blockchainlab-starters",
  "compose_engine": "https://github.com/Blockchains/blockchainlab-compose",
@@ -48,7 +48,8 @@
      "Proxy/Upgradeable",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "permissionless.js",
@@ -78,7 +79,8 @@
      "EVM",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "eliza",
@@ -98,7 +100,8 @@
     "https://github.com/elizaOS/eliza#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/eliza?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/eliza/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/eliza/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "ClawRouter",
@@ -118,7 +121,8 @@
     "https://github.com/BlockRunAI/ClawRouter#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ClawRouter?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ClawRouter/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ClawRouter/tree/main",
+   "tier": "curated"
   },
   {
    "name": "intentkit",
@@ -138,7 +142,8 @@
     "https://github.com/crestalnetwork/intentkit#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/intentkit?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/intentkit/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/intentkit/tree/main",
+   "tier": "curated"
   },
   {
    "name": "rotki",
@@ -169,7 +174,8 @@
      "Rust-crates",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "mempool",
@@ -189,7 +195,8 @@
     "https://github.com/mempool/mempool#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/mempool?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/mempool/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/mempool/tree/master",
+   "tier": "curated"
   },
   {
    "name": "lnd",
@@ -220,7 +227,8 @@
      "Go-module",
      "Substrate"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "bitcoinj",
@@ -247,7 +255,8 @@
     "commit": "80f3920a0f422a387278f827d97b70ca5a053176",
     "component_count": 0,
     "tags": []
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "lightning",
@@ -267,7 +276,8 @@
     "https://github.com/ElementsProject/lightning#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lightning?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lightning/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lightning/tree/master",
+   "tier": "curated"
   },
   {
    "name": "stacks-core",
@@ -287,7 +297,8 @@
     "https://github.com/stacks-network/stacks-core#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/stacks-core?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/stacks-core/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/stacks-core/tree/main",
+   "tier": "curated"
   },
   {
    "name": "damus",
@@ -307,7 +318,8 @@
     "https://github.com/damus-io/damus#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/damus?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/damus/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/damus/tree/master",
+   "tier": "curated"
   },
   {
    "name": "Bitcoin.org",
@@ -327,7 +339,8 @@
     "https://github.com/bitcoin-dot-org/Bitcoin.org#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/Bitcoin.org?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/Bitcoin.org/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Bitcoin.org/tree/master",
+   "tier": "curated"
   },
   {
    "name": "electrs",
@@ -347,7 +360,8 @@
     "https://github.com/romanz/electrs#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/electrs?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/electrs/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/electrs/tree/master",
+   "tier": "curated"
   },
   {
    "name": "rust-lightning",
@@ -367,7 +381,8 @@
     "https://github.com/lightningdevkit/rust-lightning#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/rust-lightning?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-lightning/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-lightning/tree/main",
+   "tier": "curated"
   },
   {
    "name": "eclair",
@@ -387,7 +402,8 @@
     "https://github.com/ACINQ/eclair#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/eclair?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/eclair/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/eclair/tree/master",
+   "tier": "curated"
   },
   {
    "name": "esplora",
@@ -407,7 +423,8 @@
     "https://github.com/Blockstream/esplora#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/esplora?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/esplora/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/esplora/tree/master",
+   "tier": "curated"
   },
   {
    "name": "raspibolt",
@@ -427,7 +444,8 @@
     "https://github.com/raspibolt/raspibolt#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/raspibolt?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/raspibolt/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/raspibolt/tree/master",
+   "tier": "curated"
   },
   {
    "name": "lnbits",
@@ -447,7 +465,8 @@
     "https://github.com/lnbits/lnbits#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lnbits?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lnbits/tree/dev"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lnbits/tree/dev",
+   "tier": "curated"
   },
   {
    "name": "elements",
@@ -467,7 +486,8 @@
     "https://github.com/ElementsProject/elements#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/elements?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/elements/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/elements/tree/master",
+   "tier": "curated"
   },
   {
    "name": "rango-client",
@@ -487,7 +507,8 @@
     "https://github.com/rango-exchange/rango-client#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/rango-client?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-client/tree/next"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-client/tree/next",
+   "tier": "curated"
   },
   {
    "name": "bdk",
@@ -517,7 +538,8 @@
      "Bitcoin",
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "LndHub",
@@ -537,7 +559,8 @@
     "https://github.com/BlueWallet/LndHub#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/LndHub?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/LndHub/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/LndHub/tree/master",
+   "tier": "curated"
   },
   {
    "name": "robosats",
@@ -557,7 +580,8 @@
     "https://github.com/RoboSats/robosats#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/robosats?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/robosats/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/robosats/tree/main",
+   "tier": "curated"
   },
   {
    "name": "wormhole",
@@ -577,7 +601,8 @@
     "https://github.com/wormhole-foundation/wormhole#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/wormhole?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/wormhole/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wormhole/tree/main",
+   "tier": "curated"
   },
   {
    "name": "diem",
@@ -597,7 +622,8 @@
     "https://github.com/diem/diem#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/diem?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/diem/tree/latest"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/diem/tree/latest",
+   "tier": "curated"
   },
   {
    "name": "tendermint",
@@ -617,7 +643,8 @@
     "https://github.com/tendermint/tendermint#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/tendermint?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/tendermint/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/tendermint/tree/main",
+   "tier": "curated"
   },
   {
    "name": "lbry-desktop",
@@ -637,7 +664,8 @@
     "https://github.com/lbryio/lbry-desktop#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lbry-desktop?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lbry-desktop/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lbry-desktop/tree/master",
+   "tier": "curated"
   },
   {
    "name": "sei-chain",
@@ -657,7 +685,8 @@
     "https://github.com/sei-protocol/sei-chain#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/sei-chain?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/sei-chain/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sei-chain/tree/main",
+   "tier": "curated"
   },
   {
    "name": "chainquery",
@@ -677,7 +706,8 @@
     "https://github.com/OdyseeTeam/chainquery#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/chainquery?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/chainquery/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/chainquery/tree/master",
+   "tier": "curated"
   },
   {
    "name": "Planet",
@@ -697,7 +727,8 @@
     "https://github.com/Planetable/Planet#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/Planet?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/Planet/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Planet/tree/main",
+   "tier": "curated"
   },
   {
    "name": "verge",
@@ -717,7 +748,8 @@
     "https://github.com/vergecurrency/verge#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/verge?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/verge/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/verge/tree/master",
+   "tier": "curated"
   },
   {
    "name": "p2pool",
@@ -737,7 +769,8 @@
     "https://github.com/SChernykh/p2pool#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/p2pool?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/p2pool/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/p2pool/tree/master",
+   "tier": "curated"
   },
   {
    "name": "node",
@@ -757,7 +790,8 @@
     "https://github.com/mysteriumnetwork/node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/node-1?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/node-1/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/node-1/tree/master",
+   "tier": "curated"
   },
   {
    "name": "IceFireDB",
@@ -777,7 +811,8 @@
     "https://github.com/IceFireDB/IceFireDB#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/IceFireDB?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/IceFireDB/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/IceFireDB/tree/main",
+   "tier": "curated"
   },
   {
    "name": "celestia-node",
@@ -797,7 +832,8 @@
     "https://github.com/celestiaorg/celestia-node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/celestia-node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/celestia-node/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/celestia-node/tree/main",
+   "tier": "curated"
   },
   {
    "name": "bitcoin",
@@ -826,7 +862,8 @@
     "tags": [
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "go-ethereum",
@@ -857,7 +894,8 @@
      "Go-module",
      "ZK"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "linera-protocol",
@@ -891,7 +929,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "dogecoin",
@@ -918,7 +957,8 @@
     "commit": "47a303a449999314abcf83bd1fc7e77dd4540fcd",
     "component_count": 0,
     "tags": []
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "monero",
@@ -938,7 +978,8 @@
     "https://github.com/monero-project/monero#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/monero?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/monero/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/monero/tree/master",
+   "tier": "curated"
   },
   {
    "name": "chia-blockchain",
@@ -967,7 +1008,8 @@
     "tags": [
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "btcd",
@@ -996,7 +1038,8 @@
     "tags": [
      "Go-module"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "reth",
@@ -1028,7 +1071,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "rippled",
@@ -1057,7 +1101,8 @@
     "tags": [
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "grin",
@@ -1086,7 +1131,8 @@
     "tags": [
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "java-tron",
@@ -1106,7 +1152,8 @@
     "https://github.com/tronprotocol/java-tron#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/java-tron?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/java-tron/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/java-tron/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "prysm",
@@ -1138,7 +1185,8 @@
      "Go-module",
      "ZK"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "erigon",
@@ -1170,7 +1218,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "neo",
@@ -1197,7 +1246,8 @@
     "commit": "268175a8e1bba39c11a81723796bef1c9d11e1bd",
     "component_count": 0,
     "tags": []
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "nano-node",
@@ -1217,7 +1267,8 @@
     "https://github.com/nanocurrency/nano-node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/nano-node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/nano-node/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nano-node/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "lighthouse",
@@ -1237,7 +1288,8 @@
     "https://github.com/sigp/lighthouse#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lighthouse?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lighthouse/tree/stable"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lighthouse/tree/stable",
+   "tier": "curated"
   },
   {
    "name": "bsc",
@@ -1257,7 +1309,8 @@
     "https://github.com/bnb-chain/bsc#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/bsc?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/bsc/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bsc/tree/master",
+   "tier": "curated"
   },
   {
    "name": "cardano-node",
@@ -1277,7 +1330,8 @@
     "https://github.com/IntersectMBO/cardano-node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cardano-node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cardano-node/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cardano-node/tree/master",
+   "tier": "curated"
   },
   {
    "name": "nearcore",
@@ -1297,7 +1351,8 @@
     "https://github.com/near/nearcore#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/nearcore?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/nearcore/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nearcore/tree/master",
+   "tier": "curated"
   },
   {
    "name": "avalanchego",
@@ -1317,7 +1372,8 @@
     "https://github.com/ava-labs/avalanchego#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/avalanchego?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/avalanchego/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/avalanchego/tree/master",
+   "tier": "curated"
   },
   {
    "name": "revm",
@@ -1337,7 +1393,8 @@
     "https://github.com/bluealloy/revm#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/revm?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/revm/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/revm/tree/main",
+   "tier": "curated"
   },
   {
    "name": "helios",
@@ -1357,7 +1414,8 @@
     "https://github.com/a16z/helios#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/helios?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/helios/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/helios/tree/master",
+   "tier": "curated"
   },
   {
    "name": "agave",
@@ -1388,7 +1446,8 @@
      "SVM",
      "Substrate"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "besu",
@@ -1408,7 +1467,8 @@
     "https://github.com/besu-eth/besu#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/besu?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/besu/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/besu/tree/main",
+   "tier": "curated"
   },
   {
    "name": "iotex-core",
@@ -1428,7 +1488,8 @@
     "https://github.com/iotexproject/iotex-core#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/iotex-core?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/iotex-core/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/iotex-core/tree/master",
+   "tier": "curated"
   },
   {
    "name": "nethermind",
@@ -1448,7 +1509,8 @@
     "https://github.com/NethermindEth/nethermind#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/nethermind?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/nethermind/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/nethermind/tree/master",
+   "tier": "curated"
   },
   {
    "name": "harmony",
@@ -1468,7 +1530,8 @@
     "https://github.com/harmony-one/harmony#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/harmony?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/harmony/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/harmony/tree/main",
+   "tier": "curated"
   },
   {
    "name": "lodestar",
@@ -1488,7 +1551,8 @@
     "https://github.com/ChainSafe/lodestar#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lodestar?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lodestar/tree/unstable"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lodestar/tree/unstable",
+   "tier": "curated"
   },
   {
    "name": "bitcoin-abc",
@@ -1508,7 +1572,8 @@
     "https://github.com/Bitcoin-ABC/bitcoin-abc#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/bitcoin-abc?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/bitcoin-abc/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bitcoin-abc/tree/master",
+   "tier": "curated"
   },
   {
    "name": "AElf",
@@ -1528,7 +1593,8 @@
     "https://github.com/AElfProject/AElf#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/AElf?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/AElf/tree/dev"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/AElf/tree/dev",
+   "tier": "curated"
   },
   {
    "name": "ckb",
@@ -1548,7 +1614,8 @@
     "https://github.com/nervosnetwork/ckb#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ckb?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ckb/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ckb/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "qtum",
@@ -1568,7 +1635,8 @@
     "https://github.com/qtumproject/qtum#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/qtum?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/qtum/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/qtum/tree/master",
+   "tier": "curated"
   },
   {
    "name": "Waves",
@@ -1588,7 +1656,8 @@
     "https://github.com/wavesplatform/Waves#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/Waves?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/Waves/tree/version-1.6.x"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Waves/tree/version-1.6.x",
+   "tier": "curated"
   },
   {
    "name": "Ravencoin",
@@ -1608,7 +1677,8 @@
     "https://github.com/RavenProject/Ravencoin#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/Ravencoin?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/Ravencoin/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Ravencoin/tree/master",
+   "tier": "curated"
   },
   {
    "name": "bor",
@@ -1628,7 +1698,8 @@
     "https://github.com/0xPolygon/bor#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/bor?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/bor/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bor/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "aeternity",
@@ -1648,7 +1719,8 @@
     "https://github.com/aeternity/aeternity#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/aeternity?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/aeternity/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/aeternity/tree/master",
+   "tier": "curated"
   },
   {
    "name": "cosmos-sdk",
@@ -1679,7 +1751,8 @@
      "Go-module",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "namada",
@@ -1699,7 +1772,8 @@
     "https://github.com/namada-net/namada#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/namada?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/namada/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/namada/tree/main",
+   "tier": "curated"
   },
   {
    "name": "cli",
@@ -1719,7 +1793,8 @@
     "https://github.com/ignite/cli#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cli?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cli/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cli/tree/main",
+   "tier": "curated"
   },
   {
    "name": "cosmwasm",
@@ -1739,7 +1814,8 @@
     "https://github.com/CosmWasm/cosmwasm#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cosmwasm?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cosmwasm/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cosmwasm/tree/main",
+   "tier": "curated"
   },
   {
    "name": "node",
@@ -1759,7 +1835,8 @@
     "https://github.com/akash-network/node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/node/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/node/tree/main",
+   "tier": "curated"
   },
   {
    "name": "ibc",
@@ -1779,7 +1856,8 @@
     "https://github.com/cosmos/ibc#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ibc?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ibc/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ibc/tree/main",
+   "tier": "curated"
   },
   {
    "name": "cometbft",
@@ -1799,7 +1877,8 @@
     "https://github.com/cometbft/cometbft#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cometbft?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cometbft/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cometbft/tree/main",
+   "tier": "curated"
   },
   {
    "name": "tss-lib",
@@ -1819,7 +1898,8 @@
     "https://github.com/bnb-chain/tss-lib#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/tss-lib?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/tss-lib/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/tss-lib/tree/master",
+   "tier": "curated"
   },
   {
    "name": "chains",
@@ -1848,7 +1928,8 @@
     "tags": [
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "assets",
@@ -1868,7 +1949,8 @@
     "https://github.com/trustwallet/assets#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/assets?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/assets/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/assets/tree/master",
+   "tier": "curated"
   },
   {
    "name": "interface",
@@ -1900,7 +1982,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "bisq",
@@ -1929,7 +2012,8 @@
     "tags": [
      "Bitcoin"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "v3-core",
@@ -1960,7 +2044,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "v2-core",
@@ -1980,7 +2065,8 @@
     "https://github.com/Uniswap/v2-core#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/v2-core?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-core/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-core/tree/master",
+   "tier": "curated"
   },
   {
    "name": "v4-core",
@@ -2015,7 +2101,8 @@
      "Foundry",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "rango-sdk",
@@ -2035,7 +2122,8 @@
     "https://github.com/rango-exchange/rango-sdk#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/rango-sdk?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-sdk/tree/next"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rango-sdk/tree/next",
+   "tier": "curated"
   },
   {
    "name": "0x-monorepo",
@@ -2055,7 +2143,8 @@
     "https://github.com/0xProject/0x-monorepo#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/0x-monorepo?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/0x-monorepo/tree/development"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/0x-monorepo/tree/development",
+   "tier": "curated"
   },
   {
    "name": "haveno",
@@ -2075,7 +2164,8 @@
     "https://github.com/haveno-dex/haveno#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/haveno?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/haveno/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/haveno/tree/master",
+   "tier": "curated"
   },
   {
    "name": "v3-periphery",
@@ -2095,7 +2185,8 @@
     "https://github.com/Uniswap/v3-periphery#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/v3-periphery?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/v3-periphery/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v3-periphery/tree/main",
+   "tier": "curated"
   },
   {
    "name": "v2-periphery",
@@ -2115,7 +2206,8 @@
     "https://github.com/Uniswap/v2-periphery#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/v2-periphery?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-periphery/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/v2-periphery/tree/master",
+   "tier": "curated"
   },
   {
    "name": "uniswap-python",
@@ -2135,7 +2227,8 @@
     "https://github.com/uniswap-python/uniswap-python#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/uniswap-python?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-python/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-python/tree/master",
+   "tier": "curated"
   },
   {
    "name": "v4-periphery",
@@ -2172,7 +2265,8 @@
      "Foundry",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "morpho-blue",
@@ -2192,7 +2286,8 @@
     "https://github.com/morpho-org/morpho-blue#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/morpho-blue?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/morpho-blue/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/morpho-blue/tree/main",
+   "tier": "curated"
   },
   {
    "name": "v4-template",
@@ -2222,7 +2317,8 @@
      "EVM",
      "Foundry"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "uniswap-hooks",
@@ -2244,7 +2340,8 @@
     "https://github.com/OpenZeppelin/uniswap-hooks#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/uniswap-hooks?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-hooks/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/uniswap-hooks/tree/master",
+   "tier": "curated"
   },
   {
    "name": "foundry",
@@ -2279,7 +2376,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "ethers.js",
@@ -2309,7 +2407,8 @@
      "EVM",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "hardhat",
@@ -2341,7 +2440,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "wagmi",
@@ -2375,7 +2475,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "web3.py",
@@ -2395,7 +2496,8 @@
     "https://github.com/ApeWorX/web3.py#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/web3.py?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/web3.py/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/web3.py/tree/main",
+   "tier": "curated"
   },
   {
    "name": "web3j",
@@ -2415,7 +2517,8 @@
     "https://github.com/LFDT-web3j/web3j#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/web3j?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/web3j/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/web3j/tree/main",
+   "tier": "curated"
   },
   {
    "name": "viem",
@@ -2448,7 +2551,8 @@
      "Foundry",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "remix-project",
@@ -2468,7 +2572,8 @@
     "https://github.com/remix-project-org/remix-project#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/remix-project?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-project/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-project/tree/master",
+   "tier": "curated"
   },
   {
    "name": "brownie",
@@ -2488,7 +2593,8 @@
     "https://github.com/eth-brownie/brownie#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/brownie?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/brownie/tree/upstream-master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/brownie/tree/upstream-master",
+   "tier": "curated"
   },
   {
    "name": "Nethereum",
@@ -2508,7 +2614,8 @@
     "https://github.com/Nethereum/Nethereum#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/Nethereum?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/Nethereum/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Nethereum/tree/master",
+   "tier": "curated"
   },
   {
    "name": "scaffold-eth-2",
@@ -2539,7 +2646,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "go-stellar-sdk",
@@ -2559,7 +2667,8 @@
     "https://github.com/stellar/go-stellar-sdk#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/go-stellar-sdk?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/go-stellar-sdk/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/go-stellar-sdk/tree/main",
+   "tier": "curated"
   },
   {
    "name": "alloy",
@@ -2579,7 +2688,8 @@
     "https://github.com/alloy-rs/alloy#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/alloy?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/alloy/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/alloy/tree/main",
+   "tier": "curated"
   },
   {
    "name": "hardhat-deploy",
@@ -2599,7 +2709,8 @@
     "https://github.com/wighawag/hardhat-deploy#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/hardhat-deploy?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/hardhat-deploy/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hardhat-deploy/tree/main",
+   "tier": "curated"
   },
   {
    "name": "starknet.js",
@@ -2619,7 +2730,8 @@
     "https://github.com/starknet-io/starknet.js#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/starknet.js?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/starknet.js/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/starknet.js/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "whatsabi",
@@ -2639,7 +2751,8 @@
     "https://github.com/shazow/whatsabi#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/whatsabi?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/whatsabi/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/whatsabi/tree/main",
+   "tier": "curated"
   },
   {
    "name": "forge-std",
@@ -2677,7 +2790,8 @@
      "Foundry",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "ape",
@@ -2697,7 +2811,8 @@
     "https://github.com/ApeWorX/ape#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ape?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ape/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ape/tree/main",
+   "tier": "curated"
   },
   {
    "name": "fabric",
@@ -2728,7 +2843,8 @@
      "Substrate",
      "ZK"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "fabric-samples",
@@ -2748,7 +2864,8 @@
     "https://github.com/hyperledger/fabric-samples#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/fabric-samples?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/fabric-samples/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/fabric-samples/tree/main",
+   "tier": "curated"
   },
   {
    "name": "FISCO-BCOS",
@@ -2768,7 +2885,8 @@
     "https://github.com/FISCO-BCOS/FISCO-BCOS#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/FISCO-BCOS?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/FISCO-BCOS/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/FISCO-BCOS/tree/master",
+   "tier": "curated"
   },
   {
    "name": "EIPs",
@@ -2788,7 +2906,8 @@
     "https://github.com/ethereum/EIPs#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/EIPs?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/EIPs/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/EIPs/tree/master",
+   "tier": "curated"
   },
   {
    "name": "ethereum-org-website",
@@ -2808,7 +2927,8 @@
     "https://github.com/ethereum/ethereum-org-website#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ethereum-org-website?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ethereum-org-website/tree/dev"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ethereum-org-website/tree/dev",
+   "tier": "curated"
   },
   {
    "name": "PoWFaucet",
@@ -2828,7 +2948,8 @@
     "https://github.com/pk910/PoWFaucet#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/PoWFaucet?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/PoWFaucet/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/PoWFaucet/tree/master",
+   "tier": "curated"
   },
   {
    "name": "consensus-specs",
@@ -2848,7 +2969,8 @@
     "https://github.com/ethereum/consensus-specs#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/consensus-specs?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/consensus-specs/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/consensus-specs/tree/master",
+   "tier": "curated"
   },
   {
    "name": "remix-ide",
@@ -2868,7 +2990,8 @@
     "https://github.com/remix-project-org/remix-ide#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/remix-ide?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-ide/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/remix-ide/tree/master",
+   "tier": "curated"
   },
   {
    "name": "execution-specs",
@@ -2888,7 +3011,8 @@
     "https://github.com/ethereum/execution-specs#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/execution-specs?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-specs/tree/forks/amsterdam"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-specs/tree/forks/amsterdam",
+   "tier": "curated"
   },
   {
    "name": "execution-apis",
@@ -2908,7 +3032,8 @@
     "https://github.com/ethereum/execution-apis#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/execution-apis?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-apis/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/execution-apis/tree/main",
+   "tier": "curated"
   },
   {
    "name": "intellij-solidity",
@@ -2928,7 +3053,8 @@
     "https://github.com/intellij-solidity/intellij-solidity#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/intellij-solidity?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/intellij-solidity/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/intellij-solidity/tree/master",
+   "tier": "curated"
   },
   {
    "name": "standards-sdk",
@@ -2948,7 +3074,8 @@
     "https://github.com/hashgraph-online/standards-sdk#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/standards-sdk?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/standards-sdk/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/standards-sdk/tree/main",
+   "tier": "curated"
   },
   {
    "name": "hiero-consensus-node",
@@ -2981,7 +3108,8 @@
      "ERC-721",
      "EVM"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "hiero-sdk-js",
@@ -3015,7 +3143,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "hiero-mirror-node",
@@ -3035,7 +3164,8 @@
     "https://github.com/hiero-ledger/hiero-mirror-node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/hiero-mirror-node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-mirror-node/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-mirror-node/tree/main",
+   "tier": "curated"
   },
   {
    "name": "hiero-json-rpc-relay",
@@ -3055,7 +3185,8 @@
     "https://github.com/hiero-ledger/hiero-json-rpc-relay#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/hiero-json-rpc-relay?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-json-rpc-relay/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/hiero-json-rpc-relay/tree/main",
+   "tier": "curated"
   },
   {
    "name": "hedera-smart-contracts",
@@ -3097,7 +3228,8 @@
      "Proxy/Upgradeable",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "amethyst",
@@ -3117,7 +3249,8 @@
     "https://github.com/vitorpamplona/amethyst#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/amethyst?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/amethyst/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/amethyst/tree/main",
+   "tier": "curated"
   },
   {
    "name": "semaphore",
@@ -3137,7 +3270,8 @@
     "https://github.com/semaphore-protocol/semaphore#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/semaphore?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/semaphore/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/semaphore/tree/main",
+   "tier": "curated"
   },
   {
    "name": "graph-node",
@@ -3168,7 +3302,8 @@
      "Foundry",
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "squid-sdk",
@@ -3188,7 +3323,8 @@
     "https://github.com/subsquid/squid-sdk#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/squid-sdk?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/squid-sdk/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/squid-sdk/tree/master",
+   "tier": "curated"
   },
   {
    "name": "ponder",
@@ -3208,7 +3344,8 @@
     "https://github.com/ponder-sh/ponder#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ponder?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ponder/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ponder/tree/main",
+   "tier": "curated"
   },
   {
    "name": "trueblocks-core",
@@ -3228,7 +3365,8 @@
     "https://github.com/TrueBlocks/trueblocks-core#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/trueblocks-core?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/trueblocks-core/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/trueblocks-core/tree/main",
+   "tier": "curated"
   },
   {
    "name": "graph-tooling",
@@ -3259,7 +3397,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "optimism",
@@ -3299,7 +3438,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "taiko-mono",
@@ -3319,7 +3459,8 @@
     "https://github.com/taikoxyz/taiko-mono#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/taiko-mono?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/taiko-mono/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/taiko-mono/tree/main",
+   "tier": "curated"
   },
   {
    "name": "zksync-era",
@@ -3353,7 +3494,8 @@
      "Rust-crates",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "arbitrum-classic",
@@ -3373,7 +3515,8 @@
     "https://github.com/OffchainLabs/arbitrum-classic#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/arbitrum-classic?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/arbitrum-classic/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/arbitrum-classic/tree/master",
+   "tier": "curated"
   },
   {
    "name": "simple-taiko-node",
@@ -3393,7 +3536,8 @@
     "https://github.com/taikoxyz/simple-taiko-node#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/simple-taiko-node?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/simple-taiko-node/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/simple-taiko-node/tree/main",
+   "tier": "curated"
   },
   {
    "name": "stylus-sdk-rs",
@@ -3427,7 +3571,8 @@
      "Hardhat",
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "solidity",
@@ -3459,7 +3604,8 @@
      "ERC-721",
      "EVM"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "vyper",
@@ -3479,7 +3625,8 @@
     "https://github.com/vyperlang/vyper#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/vyper?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/vyper/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/vyper/tree/master",
+   "tier": "curated"
   },
   {
    "name": "cairo",
@@ -3499,7 +3646,8 @@
     "https://github.com/starkware-libs/cairo#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cairo?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo/tree/main",
+   "tier": "curated"
   },
   {
    "name": "fe",
@@ -3519,7 +3667,8 @@
     "https://github.com/argotorg/fe#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/fe?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/fe/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/fe/tree/master",
+   "tier": "curated"
   },
   {
    "name": "plutus",
@@ -3539,7 +3688,8 @@
     "https://github.com/IntersectMBO/plutus#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/plutus?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/plutus/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/plutus/tree/master",
+   "tier": "curated"
   },
   {
    "name": "solc-js",
@@ -3559,7 +3709,8 @@
     "https://github.com/argotorg/solc-js#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solc-js?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solc-js/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solc-js/tree/master",
+   "tier": "curated"
   },
   {
    "name": "solang",
@@ -3579,7 +3730,8 @@
     "https://github.com/hyperledger-solang/solang#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solang?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solang/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solang/tree/main",
+   "tier": "curated"
   },
   {
    "name": "sui",
@@ -3618,7 +3770,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "starcoin",
@@ -3638,7 +3791,8 @@
     "https://github.com/starcoinorg/starcoin#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/starcoin?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/starcoin/tree/dual-verse-dag"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/starcoin/tree/dual-verse-dag",
+   "tier": "curated"
   },
   {
    "name": "seaport",
@@ -3658,7 +3812,8 @@
     "https://github.com/ProjectOpenSea/seaport#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/seaport?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/seaport/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/seaport/tree/main",
+   "tier": "curated"
   },
   {
    "name": "chainlink",
@@ -3696,7 +3851,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "chainlink-evm",
@@ -3737,7 +3893,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "kubo",
@@ -3757,7 +3914,8 @@
     "https://github.com/ipfs/kubo#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/kubo?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/kubo/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/kubo/tree/master",
+   "tier": "curated"
   },
   {
    "name": "go-libp2p",
@@ -3777,7 +3935,8 @@
     "https://github.com/libp2p/go-libp2p#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/go-libp2p?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/go-libp2p/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/go-libp2p/tree/master",
+   "tier": "curated"
   },
   {
    "name": "ipfs-desktop",
@@ -3797,7 +3956,8 @@
     "https://github.com/ipfs/ipfs-desktop#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ipfs-desktop?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-desktop/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-desktop/tree/main",
+   "tier": "curated"
   },
   {
    "name": "rust-libp2p",
@@ -3817,7 +3977,8 @@
     "https://github.com/libp2p/rust-libp2p#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/rust-libp2p?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-libp2p/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/rust-libp2p/tree/master",
+   "tier": "curated"
   },
   {
    "name": "lotus",
@@ -3837,7 +3998,8 @@
     "https://github.com/filecoin-project/lotus#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/lotus?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/lotus/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/lotus/tree/master",
+   "tier": "curated"
   },
   {
    "name": "js-libp2p",
@@ -3857,7 +4019,8 @@
     "https://github.com/libp2p/js-libp2p#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/js-libp2p?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/js-libp2p/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/js-libp2p/tree/main",
+   "tier": "curated"
   },
   {
    "name": "ipfs-companion",
@@ -3877,7 +4040,8 @@
     "https://github.com/ipfs/ipfs-companion#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ipfs-companion?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-companion/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-companion/tree/main",
+   "tier": "curated"
   },
   {
    "name": "ipfs-webui",
@@ -3897,7 +4061,8 @@
     "https://github.com/ipfs/ipfs-webui#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ipfs-webui?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-webui/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ipfs-webui/tree/main",
+   "tier": "curated"
   },
   {
    "name": "bee",
@@ -3917,7 +4082,8 @@
     "https://github.com/ethersphere/bee#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/bee?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/bee/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bee/tree/master",
+   "tier": "curated"
   },
   {
    "name": "holochain",
@@ -3937,7 +4103,8 @@
     "https://github.com/holochain/holochain#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/holochain?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/holochain/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/holochain/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "helia",
@@ -3957,7 +4124,8 @@
     "https://github.com/ipfs/helia#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/helia?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/helia/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/helia/tree/main",
+   "tier": "curated"
   },
   {
    "name": "btcpayserver",
@@ -3984,7 +4152,8 @@
     "commit": "973fb804191cfcc08cfc2136fea202360075d2ee",
     "component_count": 0,
     "tags": []
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "polkadot-sdk",
@@ -4019,7 +4188,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "apps",
@@ -4039,7 +4209,8 @@
     "https://github.com/polkadot-js/apps#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/apps?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/apps/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/apps/tree/master",
+   "tier": "curated"
   },
   {
    "name": "api",
@@ -4059,7 +4230,8 @@
     "https://github.com/polkadot-js/api#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/api?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/api/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/api/tree/master",
+   "tier": "curated"
   },
   {
    "name": "extension",
@@ -4079,7 +4251,8 @@
     "https://github.com/polkadot-js/extension#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/extension-1?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/extension-1/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/extension-1/tree/master",
+   "tier": "curated"
   },
   {
    "name": "DeFiHackLabs",
@@ -4118,7 +4291,8 @@
      "Foundry",
      "Proxy/Upgradeable"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "slither",
@@ -4155,7 +4329,8 @@
      "Hardhat",
      "Proxy/Upgradeable"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "echidna",
@@ -4175,7 +4350,8 @@
     "https://github.com/crytic/echidna#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/echidna?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/echidna/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/echidna/tree/master",
+   "tier": "curated"
   },
   {
    "name": "ethernaut",
@@ -4195,7 +4371,8 @@
     "https://github.com/OpenZeppelin/ethernaut#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ethernaut?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ethernaut/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ethernaut/tree/master",
+   "tier": "curated"
   },
   {
    "name": "reentrancy-attacks",
@@ -4215,7 +4392,8 @@
     "https://github.com/pcaversaccio/reentrancy-attacks#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/reentrancy-attacks?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/reentrancy-attacks/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/reentrancy-attacks/tree/main",
+   "tier": "curated"
   },
   {
    "name": "heimdall-rs",
@@ -4235,7 +4413,8 @@
     "https://github.com/Jon-Becker/heimdall-rs#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/heimdall-rs?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/heimdall-rs/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/heimdall-rs/tree/main",
+   "tier": "curated"
   },
   {
    "name": "solhint",
@@ -4255,7 +4434,8 @@
     "https://github.com/protofire/solhint#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solhint?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solhint/tree/develop"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solhint/tree/develop",
+   "tier": "curated"
   },
   {
    "name": "openzeppelin-contracts",
@@ -4298,7 +4478,8 @@
      "Proxy/Upgradeable",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "solady",
@@ -4338,7 +4519,8 @@
      "Proxy/Upgradeable",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "safe-smart-account",
@@ -4375,7 +4557,8 @@
      "Hardhat",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "openzeppelin-contracts-upgradeable",
@@ -4395,7 +4578,8 @@
     "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/openzeppelin-contracts-upgradeable?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/openzeppelin-contracts-upgradeable/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/openzeppelin-contracts-upgradeable/tree/master",
+   "tier": "curated"
   },
   {
    "name": "prb-math",
@@ -4415,7 +4599,8 @@
     "https://github.com/PaulRBerg/prb-math#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/prb-math?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/prb-math/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/prb-math/tree/main",
+   "tier": "curated"
   },
   {
    "name": "anchor",
@@ -4450,7 +4635,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "solana-web3.js",
@@ -4470,7 +4656,8 @@
     "https://github.com/solana-foundation/solana-web3.js#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solana-web3.js?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-web3.js/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-web3.js/tree/main",
+   "tier": "curated"
   },
   {
    "name": "wallet-adapter",
@@ -4490,7 +4677,8 @@
     "https://github.com/anza-xyz/wallet-adapter#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/wallet-adapter?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/wallet-adapter/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/wallet-adapter/tree/master",
+   "tier": "curated"
   },
   {
    "name": "pay",
@@ -4510,7 +4698,8 @@
     "https://github.com/solana-foundation/pay#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/pay?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/pay/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/pay/tree/main",
+   "tier": "curated"
   },
   {
    "name": "solana-go",
@@ -4530,7 +4719,8 @@
     "https://github.com/solana-foundation/solana-go#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solana-go?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-go/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-go/tree/main",
+   "tier": "curated"
   },
   {
    "name": "firedancer",
@@ -4550,7 +4740,8 @@
     "https://github.com/firedancer-io/firedancer#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/firedancer?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/firedancer/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/firedancer/tree/main",
+   "tier": "curated"
   },
   {
    "name": "solana-py",
@@ -4570,7 +4761,8 @@
     "https://github.com/michaelhly/solana-py#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/solana-py?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-py/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/solana-py/tree/master",
+   "tier": "curated"
   },
   {
    "name": "program-examples",
@@ -4590,7 +4782,8 @@
     "https://github.com/solana-foundation/program-examples#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/program-examples?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/program-examples/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/program-examples/tree/main",
+   "tier": "curated"
   },
   {
    "name": "yellowstone-grpc",
@@ -4610,7 +4803,8 @@
     "https://github.com/rpcpool/yellowstone-grpc#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/yellowstone-grpc?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/yellowstone-grpc/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/yellowstone-grpc/tree/master",
+   "tier": "curated"
   },
   {
    "name": "electrum",
@@ -4637,7 +4831,8 @@
     "commit": "4cb03ef4f1f2baaf66519342b933ee731333b1fd",
     "component_count": 0,
     "tags": []
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "rainbow",
@@ -4668,7 +4863,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "wallet",
@@ -4697,7 +4893,8 @@
     "tags": [
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "wallet-core",
@@ -4731,7 +4928,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "BlueWallet",
@@ -4751,7 +4949,8 @@
     "https://github.com/BlueWallet/BlueWallet#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/BlueWallet?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/BlueWallet/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/BlueWallet/tree/master",
+   "tier": "curated"
   },
   {
    "name": "extension",
@@ -4771,7 +4970,8 @@
     "https://github.com/tahowallet/extension#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/extension?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/extension/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/extension/tree/main",
+   "tier": "curated"
   },
   {
    "name": "rainbowkit",
@@ -4815,7 +5015,8 @@
      "Substrate",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "WalletWasabi",
@@ -4835,7 +5036,8 @@
     "https://github.com/WalletWasabi/WalletWasabi#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/WalletWasabi?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/WalletWasabi/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/WalletWasabi/tree/master",
+   "tier": "curated"
   },
   {
    "name": "sparrow",
@@ -4855,7 +5057,8 @@
     "https://github.com/sparrowwallet/sparrow#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/sparrow?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/sparrow/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/sparrow/tree/master",
+   "tier": "curated"
   },
   {
    "name": "cake_wallet",
@@ -4875,7 +5078,8 @@
     "https://github.com/cake-tech/cake_wallet#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cake_wallet?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cake_wallet/tree/dev"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cake_wallet/tree/dev",
+   "tier": "curated"
   },
   {
    "name": "coinbase-wallet-sdk",
@@ -4895,7 +5099,8 @@
     "https://github.com/coinbase/coinbase-wallet-sdk#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/coinbase-wallet-sdk?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/coinbase-wallet-sdk/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/coinbase-wallet-sdk/tree/master",
+   "tier": "curated"
   },
   {
    "name": "MyEtherWallet",
@@ -4915,7 +5120,8 @@
     "https://github.com/MyEtherWallet/MyEtherWallet#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/MyEtherWallet?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/MyEtherWallet/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/MyEtherWallet/tree/main",
+   "tier": "curated"
   },
   {
    "name": "daedalus",
@@ -4935,7 +5141,8 @@
     "https://github.com/input-output-hk/daedalus#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/daedalus?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/daedalus/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/daedalus/tree/master",
+   "tier": "curated"
   },
   {
    "name": "bip39",
@@ -4955,7 +5162,8 @@
     "https://github.com/bitcoinjs/bip39#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/bip39?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/bip39/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/bip39/tree/master",
+   "tier": "curated"
   },
   {
    "name": "ant-design-web3",
@@ -4975,7 +5183,8 @@
     "https://github.com/ant-design/ant-design-web3#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/ant-design-web3?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/ant-design-web3/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ant-design-web3/tree/main",
+   "tier": "curated"
   },
   {
    "name": "connectkit",
@@ -4995,7 +5204,8 @@
     "https://github.com/family/connectkit#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/connectkit?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/connectkit/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/connectkit/tree/main",
+   "tier": "curated"
   },
   {
    "name": "union",
@@ -5015,7 +5225,8 @@
     "https://github.com/unionlabs/union#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/union?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/union/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/union/tree/main",
+   "tier": "curated"
   },
   {
    "name": "leo",
@@ -5035,7 +5246,8 @@
     "https://github.com/ProvableHQ/leo#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/leo?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/leo/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/leo/tree/master",
+   "tier": "curated"
   },
   {
    "name": "snarkOS",
@@ -5064,7 +5276,8 @@
     "tags": [
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "risc0",
@@ -5098,7 +5311,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "mina",
@@ -5118,7 +5332,8 @@
     "https://github.com/MinaProtocol/mina#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/mina?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/mina/tree/compatible"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/mina/tree/compatible",
+   "tier": "curated"
   },
   {
    "name": "snarkjs",
@@ -5152,7 +5367,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "sp1",
@@ -5185,7 +5401,8 @@
      "Substrate",
      "ZK"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "gnark",
@@ -5205,7 +5422,8 @@
     "https://github.com/Consensys-Incorporated/gnark#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/gnark?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/gnark/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/gnark/tree/master",
+   "tier": "curated"
   },
   {
    "name": "circom",
@@ -5236,7 +5454,8 @@
     "tags": [
      "Rust-crates"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "noir",
@@ -5273,7 +5492,8 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
   },
   {
    "name": "darkfi",
@@ -5293,7 +5513,8 @@
     "https://github.com/darkrenaissance/darkfi#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/darkfi?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/darkfi/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/darkfi/tree/master",
+   "tier": "curated"
   },
   {
    "name": "cairo-lang",
@@ -5313,7 +5534,8 @@
     "https://github.com/starkware-libs/cairo-lang#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/cairo-lang?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo-lang/tree/master"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/cairo-lang/tree/master",
+   "tier": "curated"
   },
   {
    "name": "snarkVM",
@@ -5333,7 +5555,8 @@
     "https://github.com/ProvableHQ/snarkVM#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/snarkVM?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/snarkVM/tree/staging"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/snarkVM/tree/staging",
+   "tier": "curated"
   },
   {
    "name": "jolt",
@@ -5353,7 +5576,8 @@
     "https://github.com/a16z/jolt#readme"
    ],
    "codespaces": "https://codespaces.new/Blockchains/jolt?quickstart=1",
-   "stackblitz": "https://stackblitz.com/github/Blockchains/jolt/tree/main"
+   "stackblitz": "https://stackblitz.com/github/Blockchains/jolt/tree/main",
+   "tier": "curated"
   },
   {
    "name": "circomlib",
@@ -5385,7 +5609,356 @@
      "ZK",
      "npm"
     ]
-   }
+   },
+   "tier": "curated"
+  },
+  {
+   "name": "zksync",
+   "slug": "zksync",
+   "category": "l2-rollups",
+   "upstream": "https://github.com/matter-labs/zksync",
+   "fork": "https://github.com/Blockchains/zksync",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 4923,
+   "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+   "upstream_pushed_at": "2026-05-08T09:04:17Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/matter-labs/zksync#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/zksync?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/zksync/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/zksync.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/zksync/index.json",
+    "commit": "9ecfe440945c46f02060f164a0fb45adfa69e634",
+    "component_count": 114,
+    "tags": [
+     "ERC-20",
+     "ERC-721",
+     "EVM",
+     "Hardhat",
+     "Rust-crates",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "marketplace",
+   "slug": "marketplace",
+   "category": "nft",
+   "upstream": "https://github.com/decentraland/marketplace",
+   "fork": "https://github.com/Blockchains/marketplace",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 (LICENSE text; GitHub API reports NOASSERTION)",
+   "stars": 1199,
+   "description": "\ud83c\udfdb\ufe0f Decentraland's NFT Marketplace",
+   "upstream_pushed_at": "2026-10-02T16:04:38Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/decentraland/marketplace#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/marketplace?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/marketplace/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/marketplace.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/marketplace/index.json",
+    "commit": "a07f1e1a8d9885c1e2651ec8cdd35b3c1e9b0b65",
+    "component_count": 4,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "awesome-nft",
+   "slug": "awesome-nft",
+   "category": "nft",
+   "upstream": "https://github.com/gianni-dalerta/awesome-nft",
+   "fork": "https://github.com/Blockchains/awesome-nft",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 971,
+   "description": "A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software",
+   "upstream_pushed_at": "2026-09-02T13:49:56Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/gianni-dalerta/awesome-nft#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/awesome-nft?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/awesome-nft/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/awesome-nft.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/awesome-nft/index.json",
+    "commit": "64ac6e8e4df294f21216c6d7beedadcf9dbdc3fc",
+    "component_count": 0,
+    "tags": []
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "defi-sdk",
+   "slug": "defi-sdk",
+   "category": "defi",
+   "upstream": "https://github.com/zeriontech/defi-sdk",
+   "fork": "https://github.com/Blockchains/defi-sdk",
+   "fork_branch": "upstream-router",
+   "license": "LGPL-3.0",
+   "license_note": "LGPL-3.0",
+   "stars": 844,
+   "description": "DeFi SDK Makes Money Lego Work",
+   "upstream_pushed_at": "2026-02-06T18:27:30Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/zeriontech/defi-sdk#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/defi-sdk?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/defi-sdk/tree/upstream-router",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/defi-sdk.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/defi-sdk/index.json",
+    "commit": "0f3ddd73ce822e20726d72491da1702358bb7700",
+    "component_count": 25,
+    "tags": [
+     "EIP-712",
+     "ERC-20",
+     "ERC-2612",
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "ampleforth-contracts",
+   "slug": "ufragments",
+   "category": "defi",
+   "upstream": "https://github.com/fragmentsorg/ampleforth-contracts",
+   "fork": "https://github.com/Blockchains/uFragments",
+   "fork_branch": "master",
+   "license": "GPL-3.0",
+   "license_note": "GPL-3.0",
+   "stars": 280,
+   "description": "Smart contracts for Ampleforth Protocol (working name uFragments)",
+   "upstream_pushed_at": "2026-06-30T21:52:05Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/fragmentsorg/ampleforth-contracts#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/uFragments?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/uFragments/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/ufragments.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/ufragments/index.json",
+    "commit": "701eee27d877f2ad7d0308467968a209d73dcff7",
+    "component_count": 21,
+    "tags": [
+     "ERC-20",
+     "ERC-2612",
+     "EVM",
+     "Hardhat",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "ui",
+   "slug": "ui",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/decentraland/ui",
+   "fork": "https://github.com/Blockchains/ui",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 (LICENSE text; GitHub API reports NOASSERTION)",
+   "stars": 212,
+   "description": "\ud83e\udd84 Decentraland UI",
+   "upstream_pushed_at": "2026-08-24T14:02:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/decentraland/ui#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/ui?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/ui/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/ui.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/ui/index.json",
+    "commit": "8a63476ef780665d79638e22c1ba61707f1a776f",
+    "component_count": 1,
+    "tags": [
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "builder",
+   "slug": "builder",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/decentraland/builder",
+   "fork": "https://github.com/Blockchains/builder",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0 (LICENSE text; GitHub API reports NOASSERTION)",
+   "stars": 157,
+   "description": "\ud83c\udf49 Build scenes for Decentraland",
+   "upstream_pushed_at": "2026-10-02T16:05:24Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/decentraland/builder#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/builder?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/builder/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/builder.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/builder/index.json",
+    "commit": "c9abed136e0347fb63c6d3f36ecae7d69da04514",
+    "component_count": 2,
+    "tags": [
+     "EVM",
+     "Substrate",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "decentraland-dapps",
+   "slug": "decentraland-dapps",
+   "category": "dev-tooling",
+   "upstream": "https://github.com/decentraland/decentraland-dapps",
+   "fork": "https://github.com/Blockchains/decentraland-dapps",
+   "fork_branch": "master",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 115,
+   "description": "\ud83d\udee0 Common modules for dApps",
+   "upstream_pushed_at": "2026-09-21T12:23:08Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/decentraland/decentraland-dapps#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/decentraland-dapps?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/decentraland-dapps/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/decentraland-dapps.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/decentraland-dapps/index.json",
+    "commit": "c5cfb3d2a14c544e200f8bca60409b1c8a0c7259",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "catalyst",
+   "slug": "catalyst",
+   "category": "p2p-storage",
+   "upstream": "https://github.com/decentraland/catalyst",
+   "fork": "https://github.com/Blockchains/catalyst",
+   "fork_branch": "upstream-main",
+   "license": "Apache-2.0",
+   "license_note": "Apache-2.0",
+   "stars": 52,
+   "description": "\ud83d\udc27 Content server for Decentraland",
+   "upstream_pushed_at": "2026-09-30T19:15:09Z",
+   "sync_mode": "tracking",
+   "starters": [],
+   "docs": [
+    "https://github.com/decentraland/catalyst#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/catalyst?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/catalyst/tree/upstream-main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/catalyst.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/catalyst/index.json",
+    "commit": "c8d76b606d1cdf1ca73dc56517eb73e97e384d98",
+    "component_count": 0,
+    "tags": [
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "synthetix-assets",
+   "slug": "synthetix-assets",
+   "category": "data-registries",
+   "upstream": "https://github.com/Synthetixio/synthetix-assets",
+   "fork": "https://github.com/Blockchains/synthetix-assets",
+   "fork_branch": "master",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 10,
+   "description": "Synthetix Assets",
+   "upstream_pushed_at": "2026-06-04T07:14:19Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/Synthetixio/synthetix-assets#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/synthetix-assets?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/synthetix-assets/tree/master",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/synthetix-assets.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/synthetix-assets/index.json",
+    "commit": "e42d608a02ddd9603bb597a568019972f684d68a",
+    "component_count": 1,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   },
+   "tier": "extended"
+  },
+  {
+   "name": "Soulbyte",
+   "slug": "soulbyte",
+   "category": "ai-agents",
+   "upstream": "https://github.com/web3devz/Soulbyte",
+   "fork": "https://github.com/Blockchains/Soulbyte",
+   "fork_branch": "main",
+   "license": "MIT",
+   "license_note": "MIT",
+   "stars": 2,
+   "description": "Autonomous AI Life Simulation",
+   "upstream_pushed_at": "2026-06-17T01:08:35Z",
+   "sync_mode": "merge",
+   "starters": [],
+   "docs": [
+    "https://github.com/web3devz/Soulbyte#readme"
+   ],
+   "codespaces": "https://codespaces.new/Blockchains/Soulbyte?quickstart=1",
+   "stackblitz": "https://stackblitz.com/github/Blockchains/Soulbyte/tree/main",
+   "index": {
+    "components": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/soulbyte.json",
+    "repo_index": "https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/repos/soulbyte/index.json",
+    "commit": "60f72b6fea736081e9234f320679924a7c33dbd7",
+    "component_count": 2,
+    "tags": [
+     "EVM",
+     "npm"
+    ]
+   },
+   "tier": "extended"
   }
  ]
 }
