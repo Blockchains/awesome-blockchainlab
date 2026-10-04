@@ -1,0 +1,23 @@
+# awesome-blockchainlab
+
+> Curated list of 225 open-source blockchain projects (+11 extended) forked under Blockchains and kept in sync by fork-sync, with a machine-readable forge.json (fork, upstream, category, licence, stars, docs, starters, index links).
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/Blockchains/awesome-blockchainlab/main/README.md): overview, install and the 'Use as a building block' section
+- [AGENTS.md](https://raw.githubusercontent.com/Blockchains/awesome-blockchainlab/main/AGENTS.md): setup, build/test commands, structure map, conventions and rules for AI coding agents
+- [blocks.json](https://raw.githubusercontent.com/Blockchains/awesome-blockchainlab/main/blocks.json): machine-readable building-block manifest (entrypoints, inputs, outputs, deps, compatible blocks)
+
+## Key files
+
+- [forge.json](https://github.com/Blockchains/awesome-blockchainlab/blob/main/forge.json): data
+- [scripts/validate.py](https://github.com/Blockchains/awesome-blockchainlab/blob/main/scripts/validate.py): validator
+
+## Related
+
+- [Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md): how to assemble projects from Blockchains repos
+- [Org llms.txt](https://blockchains.github.io/llms.txt) · [blocks catalogue](https://blockchains.github.io/blocks.json)
+- [Blockchains/fork-sync](https://github.com/Blockchains/fork-sync): keeps every listed fork in sync
+- [Blockchains/blockchainlab-index](https://github.com/Blockchains/blockchainlab-index): code index of the same forks (projects[].index links)
+- [Blockchains/blockchainlab-starters](https://github.com/Blockchains/blockchainlab-starters): starters built on these forks
+- [Blockchains/blockchainlab-compose](https://github.com/Blockchains/blockchainlab-compose): composes projects from them

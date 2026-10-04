@@ -441,6 +441,40 @@ Further Blockchains forks that are indexed in [blockchainlab-index](https://gith
 | [synthetix-assets](https://github.com/Synthetixio/synthetix-assets) | Synthetix Assets | MIT | 10 | [Blockchains/synthetix-assets](https://github.com/Blockchains/synthetix-assets/tree/master) | [Codespaces](https://codespaces.new/Blockchains/synthetix-assets?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/synthetix-assets.json) (1) |
 | [Soulbyte](https://github.com/web3devz/Soulbyte) | Autonomous AI Life Simulation | MIT | 2 | [Blockchains/Soulbyte](https://github.com/Blockchains/Soulbyte/tree/main) | [Codespaces](https://codespaces.new/Blockchains/Soulbyte?quickstart=1) · [Components](https://raw.githubusercontent.com/Blockchains/blockchainlab-index/main/components/soulbyte.json) (2) |
 
+<!-- blocks:start -->
+## Use as a building block
+
+> **For AI agents and builders:** read [`AGENTS.md`](AGENTS.md) (setup, commands, structure, rules), [`llms.txt`](llms.txt) (doc map) and the machine-readable [`blocks.json`](blocks.json) ([schema](https://github.com/Blockchains/.github/blob/main/docs/BLOCKS-SCHEMA.md)). How all Blockchains blocks fit together: **[Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md)** · org catalogue: [https://blockchains.github.io/blocks.json](https://blockchains.github.io/blocks.json).
+
+**What it exports**
+
+| Export | Type | Install / access |
+|---|---|---|
+| `forge.json` | file | `https://raw.githubusercontent.com/Blockchains/awesome-blockchainlab/main/forge.json` |
+| `README.md` | file | `human-readable list by category` |
+
+**Minimal example** (run on 2026-10-04)
+
+```bash
+curl -s https://raw.githubusercontent.com/Blockchains/awesome-blockchainlab/main/forge.json \
+  | jq -r '.projects[] | select(.category=="oracles") | "\(.fork) \(.license)"'
+```
+
+**Inputs → outputs**
+
+- In: none
+- Out: `projects[]` (JSON) slug, name, fork, upstream, category, license, license_note, stars, tier, docs, starters, index {components, repo_index, commit, tags}
+
+**Composes with**
+
+- [Blockchains/fork-sync](https://github.com/Blockchains/fork-sync): keeps every listed fork in sync
+- [Blockchains/blockchainlab-index](https://github.com/Blockchains/blockchainlab-index): code index of the same forks (projects[].index links)
+- [Blockchains/blockchainlab-starters](https://github.com/Blockchains/blockchainlab-starters): starters built on these forks
+- [Blockchains/blockchainlab-compose](https://github.com/Blockchains/blockchainlab-compose): composes projects from them
+
+**Versioning & stability:** `stable`. forge.json fields are additive; `generated_at` marks each regeneration. Archived forks are removed from the list.
+<!-- blocks:end -->
+
 ## Contributing
 Open an issue with the upstream URL. Inclusion is checked against the criteria above. `forge.json` is regenerated from the fork state, and the `Validate` workflow checks it on every push.
 
